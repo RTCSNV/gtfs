@@ -1,0 +1,39 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+4224,RTCSNV,101,Rainbow,,3,http://rtcws.rtcsnv.com/routePDF/101.pdf,00AEEF,FFFFFF
+4225,RTCSNV,105,Martin L. King,,3,http://rtcws.rtcsnv.com/routePDF/105.pdf,804C9E,FFFFFF
+4226,RTCSNV,106,Rancho/Centennial Hills,"All Route 111 trips operate along mostly Pecos from Craig to Sunset Rd, typically every 30 minutes. The route is branched south of Sunset, with 111A trips remaining on Pecos & 111B trips serving Green Valley Pkwy, each mostly once an hour.",3,http://rtcws.rtcsnv.com/routePDF/106.pdf,00AEEF,FFFFFF
+4227,RTCSNV,113,Las Vegas Blvd North,,3,http://rtcws.rtcsnv.com/routePDF/113.pdf,ED1C24,FFFFFF
+4228,RTCSNV,115,Nellis/Stephanie,,3,http://rtcws.rtcsnv.com/routePDF/115.pdf,804C9E,FFFFFF
+4229,RTCSNV,208,Washington,,3,http://rtcws.rtcsnv.com/routePDF/208.pdf,00AEEF,FFFFFF
+4230,RTCSNV,214,H Street/D Street,,3,http://rtcws.rtcsnv.com/routePDF/214.pdf,00AEEF,FFFFFF
+4231,RTCSNV,215,Bonanza,,3,http://rtcws.rtcsnv.com/routePDF/215.pdf,804C9E,FFFFFF
+4232,RTCSNV,219,Craig Rd,,3,http://rtcws.rtcsnv.com/routePDF/219.pdf,00AEEF,FFFFFF
+4233,RTCSNV,102,Jones,,3,http://rtcws.rtcsnv.com/routePDF/102.pdf,00AEEF,FFFFFF
+4234,RTCSNV,103,Decatur,,3,http://rtcws.rtcsnv.com/routePDF/103.pdf,804C9E,FFFFFF
+4235,RTCSNV,104,Valley View,,3,http://rtcws.rtcsnv.com/routePDF/104.pdf,00AEEF,FFFFFF
+4236,RTCSNV,117,Las Vegas Bl. South/Silverado Ranch,,3,http://rtcws.rtcsnv.com/routePDF/117.pdf,00AEEF,FFFFFF
+4237,RTCSNV,119,Simmons/Koval,,3,http://rtcws.rtcsnv.com/routePDF/119.pdf,00AEEF,FFFFFF
+4238,RTCSNV,122,S. Maryland Pkwy/Horizon Ridge,,3,http://rtcws.rtcsnv.com/routePDF/122.pdf,009140,FFFFFF
+4239,RTCSNV,DVX,Downtown & Vets. Med. Ctr. Express,,3,http://rtcws.rtcsnv.com/routePDF/dvx.pdf,00AEEF,FFFFFF
+4240,RTCSNV,120,Fort Apache/Rampart,,3,http://rtcws.rtcsnv.com/routePDF/120.pdf,00AEEF,FFFFFF
+4241,RTCSNV,CX,Centennial Express,,3,http://rtcws.rtcsnv.com/routePDF/cx.pdf,009140,FFFFFF
+4242,RTCSNV,108,Paradise,,3,http://rtcws.rtcsnv.com/routePDF/108.pdf,00AEEF,FFFFFF
+4243,RTCSNV,109,Maryland Pkwy.,,3,http://rtcws.rtcsnv.com/routePDF/109.pdf,ED1C24,FFFFFF
+4244,RTCSNV,201,Tropicana,"All Route 201 trips operate along Tropicana from Rainbow to Jimmy Durante, every 15 minutes during peak hours. The route is branched west of Rainbow, with 201A trips remaining on Tropicana & 201B trips serving W. Russell, each mostly every 30 minutes.",3,http://rtcws.rtcsnv.com/routePDF/201.pdf,ED1C24,FFFFFF
+4245,RTCSNV,217,Warm Springs/Lake Mead Pkwy.,,3,http://rtcws.rtcsnv.com/routePDF/217.pdf,00AEEF,FFFFFF
+4246,RTCSNV,110,Eastern,,3,http://rtcws.rtcsnv.com/routePDF/110.pdf,804C9E,FFFFFF
+4247,RTCSNV,111,Pecos/Green Valley Pkwy.,,3,http://rtcws.rtcsnv.com/routePDF/111.pdf,00AEEF,FFFFFF
+4248,RTCSNV,203,Spring Mtn./Desert Inn/Lamb,,3,http://rtcws.rtcsnv.com/routePDF/203.pdf,804C9E,FFFFFF
+4249,RTCSNV,121,Durango/Buffalo,,3,http://rtcws.rtcsnv.com/routePDF/121.pdf,00AEEF,FFFFFF
+4250,RTCSNV,202,Flamingo,,3,http://rtcws.rtcsnv.com/routePDF/202.pdf,ED1C24,FFFFFF
+4251,RTCSNV,SX,Sahara Express,,3,http://rtcws.rtcsnv.com/routePDF/sx.pdf,ED1C24,FFFFFF
+4252,RTCSNV,206,Charleston,,3,http://rtcws.rtcsnv.com/routePDF/206.pdf,ED1C24,FFFFFF
+4253,RTCSNV,210,Lake Mead Blvd.,,3,http://rtcws.rtcsnv.com/routePDF/210.pdf,804C9E,FFFFFF
+4254,RTCSNV,212,Sunset,,3,http://rtcws.rtcsnv.com/routePDF/212.pdf,00AEEF,FFFFFF
+4255,RTCSNV,218,Cheyenne,,3,http://rtcws.rtcsnv.com/routePDF/218.pdf,00AEEF,FFFFFF
+4256,RTCSNV,DEUCE,The Deuce/Strip,,3,http://rtcws.rtcsnv.com/routePDF/deuce.pdf,ED1C24,FFFFFF
+4257,RTCSNV,401,N. Outlets/Symphony Park,,3,http://rtcws.rtcsnv.com/routePDF/401.pdf,009140,FFFFFF
+4258,RTCSNV,402,Henderson/Boulder City,,3,http://rtcws.rtcsnv.com/routePDF/402.pdf,ED1C24,FFFFFF
+4259,RTCSNV,BHX,Boulder Highway Express,,3,http://rtcws.rtcsnv.com/routePDF/bhx.pdf,ED1C24,FFFFFF
+4260,RTCSNV,207,Alta/Stewart,,3,http://rtcws.rtcsnv.com/routePDF/207.pdf,009140,FFFFFF
+4261,RTCSNV,209,Vegas/Owens,,3,http://rtcws.rtcsnv.com/routePDF/209.pdf,009140,FFFFFF
