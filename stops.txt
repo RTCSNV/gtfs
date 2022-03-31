@@ -19,7 +19,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 29,29,SB H after Owens,,36.187959,-115.152057,,,,,,0
 30,30,NB H after Washington,,36.181027,-115.151748,,,,,,0
 31,31,SB H after Washington,,36.180382,-115.151941,,,,,,0
-34,34,NB 4th before Fremont,,36.169247,-115.141989,,,,,,0
+34,34,NB 4th at Fremont Street Experience,,36.169247,-115.141989,,,,,,0
 35,35,NB 4th after Bonneville,,36.164434,-115.145195,,,,,,0
 36,36,NB 4th after Lewis,,36.166877,-115.143559,,,,,,0
 39,39,EB Adams after Buchanan,,35.96831,-114.843729,,,,,,0
@@ -56,13 +56,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100,100,WB Alta before Vassar,,36.166538,-115.239958,,,,,,0
 101,101,EB Alta after Lorenzi,,36.166354,-115.240177,,,,,,0
 102,102,WB Alta after Villa Monterrey,,36.166609,-115.265077,,,,,,0
+109,109,WB Ann after Jones,,36.261276,-115.226239,,,,,,0
+110,110,WB Ann before Copper Harbor,,36.261861,-115.230874,,,,,,0
 114,114,WB Arizona at California,,35.978319,-114.83457,,,,,,0
 158,158,WB Bonanza after D,,36.177362,-115.147628,,,,,,0
 159,159,EB Bonanza after City Parkway,,36.177172,-115.148499,,,,,,0
 160,160,EB Bonanza before H,,36.177083,-115.152244,,,,,,0
 161,161,WB Bonanza after H,,36.177244,-115.153016,,,,,,0
-162,162,EB Bonanza at 919 W. Bonanza,,36.177052,-115.156164,,,,,,0
-163,163,WB Bonanza at 950 W. Bonanza,,36.177222,-115.155555,,,,,,0
+162,162,EB Bonanza after Martin L King,,36.177052,-115.156164,,,,,,0
+163,163,WB Bonanza after H,,36.177222,-115.155555,,,,,,0
 165,165,EB Bonanza after 23rd,,36.173859,-115.118217,,,,,,0
 166,166,EB Bonanza after 9th,,36.17396,-115.13312,,,,,,0
 167,167,WB Bonanza before Las Vegas,,36.174455,-115.135858,,,,,,0
@@ -76,7 +78,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 180,180,WB Bonanza after Eastern,,36.17413,-115.116707,,,,,,0
 184,184,EB Bonanza after Honolulu,,36.173376,-115.092321,,,,,,0
 185,185,WB Bonanza before Pecos,,36.173594,-115.092964,,,,,,0
-188,188,EB Bonanza after Las Vegas,,36.174508,-115.136395,,,,,,0
+188,188,EB Bonanza after Las Vegas,,36.17405,-115.135321,,,,,,0
 190,190,EB Bonanza after Lamb,,36.17339,-115.079524,,,,,,0
 191,191,WB Bonanza after Lamb,,36.17361,-115.081208,,,,,,0
 192,192,EB Bonanza before Lillian,E BONANZA RD & LILLIAN ST,36.173856,-115.064826,,,,,,0
@@ -102,11 +104,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 220,220,EB Bonanza after 28th,,36.173652,-115.111057,,,,,,0
 225,225,EB Bonanza after Tonopah,,36.177082,-115.169368,,,,,,0
 226,226,WB Bonanza after Tonopah,,36.177229,-115.170583,,,,,,0
-227,227,EB Bonanza after Triest,,36.173373,-115.085689,,,,,,0
+227,227,EB Bonanza after Triest,,36.173358,-115.085578,,,,,,0
 228,228,WB Bonanza after Triest,,36.17359,-115.087209,,,,,,0
 229,229,EB Bonanza after Casino Center,,36.175984,-115.139848,,,,,,0
 230,230,WB Bonanza after Wardelle,,36.173862,-115.109998,,,,,,0
-236,236,SB Boulder at 3650 Boulder,,36.140569,-115.096002,,,,,,0
+236,236,SB Boulder after Sahara,,36.140569,-115.096002,,,,,,0
 242,242,Railroad Pass On Property Stop,,35.972099,-114.911989,,,,,,0
 245,245,NB Boulder after Basic,,36.033616,-114.975002,,,,,,0
 246,246,SB Boulder after Basic,,36.032539,-114.974487,,,,,,0
@@ -133,7 +135,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 282,282,NB Boulder after Magic,,36.005415,-114.94331,,,,,,0
 283,283,NB Boulder after Major,,36.03082,-114.971862,,,,,,0
 286,286,NB Boulder after Merlayne,,36.064031,-115.009186,,,,,,0
-287,287,NB Boulder after Missouri,,36.097349,-115.046616,,,,,,0
+287,287,NB Boulder before Missouri,,36.096504,-115.045651,,,,,,0
 292,292,SB Boulder after Nellis,,36.112263,-115.064129,,,,,,0
 293,293,NB Boulder before Nellis,,36.112271,-115.063453,,,,,,0
 295,295,NB Boulder after Warm Springs,,36.051838,-114.995476,,,,,,0
@@ -146,7 +148,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 307,307,SB Boulder after Snap,,36.055052,-114.999785,,,,,,0
 308,308,NB Boulder before Harmon,,36.107064,-115.057589,,,,,,0
 312,312,SB Boulder after Texas,,36.035267,-114.977556,,,,,,0
-313,313,NB Boulder Hwy before Texas,,36.037862,-114.979766,,,,,,0
+313,313,NB Boulder Hwy after Texas,,36.037862,-114.979766,,,,,,0
 314,314,NB Boulder after Tropicana,,36.101344,-115.051156,,,,,,0
 318,318,NB Boulder after Water,,36.046184,-114.989121,,,,,,0
 319,319,SB Boulder after Water,,36.044809,-114.988274,,,,,,0
@@ -158,6 +160,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 340,340,SB Buchanan before Pinata,,35.9702,-114.845398,,,,,,0
 342,342,SB Buffalo before Carmen,,36.185429,-115.260158,,,,,,0
 348,348,EB Burkholder before Cabrillo,,36.037425,-114.96559,,,,,,0
+363,363,NB Camino Eldorado after Ann,,36.261786,-115.15698,,,,,,0
 370,370,EB Carey after Bruce,,36.202995,-115.124541,,,,,,0
 371,371,WB Carey after Bruce,,36.203209,-115.125761,,,,,,0
 372,372,EB Carey after Civic Center,,36.203004,-115.119523,,,,,,0
@@ -183,16 +186,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 443,443,WB Warm Springs before Center,,36.050308,-114.966306,,,,,,0
 445,445,EB Charleston after 10th,,36.158745,-115.140084,,,,,,0
 446,446,WB Charleston after Gass,,36.158938,-115.141786,,,,,,0
-447,447,EB Charleston after 15th,,36.158771,-115.132255,,,,,,0
-448,448,WB Charleston after 15th,,36.158995,-115.133356,,,,,,0
-449,449,EB Charleston before 17th,,36.158761,-115.12928,,,,,,0
-450,450,WB Charleston after 17th,,36.158981,-115.129482,,,,,,0
+449,449,EB Charleston after Hillside,,36.158754,-115.129811,,,,,,0
 451,451,EB Charleston after 28th,,36.158699,-115.110957,,,,,,0
 452,452,WB Charleston after 28th,,36.158946,-115.112364,,,,,,0
 453,453,EB Charleston after Antelope,,36.158978,-115.249912,,,,,,0
 455,455,EB Charleston after Arden,,36.158867,-115.073841,,,,,,0
 456,456,WB Charleston after Arville,,36.159159,-115.200271,,,,,,0
-457,457,WB Charleston after Betty,,36.159296,-115.058354,,,,,,0
 458,458,EB Charleston after Broadalbin,,36.158815,-115.082766,,,,,,0
 459,459,EB Charleston after Bruce,,36.158752,-115.124453,,,,,,0
 460,460,WB Charleston after Bruce,,36.158978,-115.125824,,,,,,0
@@ -203,9 +202,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 465,465,EB Charleston after Campbell,,36.158846,-115.182829,,,,,,0
 466,466,WB Charleston after Campbell,,36.159067,-115.18398,,,,,,0
 467,467,EB Charleston after Cashman,,36.158864,-115.185964,,,,,,0
-468,468,WB Charleston after Cashman,,36.159086,-115.187451,,,,,,0
-470,470,WB Charleston after Christy,,36.159459,-115.054281,,,,,,0
-472,472,EB Charleston after Crestwood,,36.158743,-115.120525,,,,,,0
 473,473,EB Charleston after Decatur,,36.158943,-115.20473,,,,,,0
 474,474,WB Charleston after Decatur,,36.159218,-115.206551,,,,,,0
 477,477,EB Charleston after Durango,,36.158958,-115.279466,,,,,,0
@@ -213,17 +209,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 479,479,WB Charleston after Eastern,,36.158962,-115.119857,,,,,,0
 480,480,EB Charleston after Faircenter,,36.158945,-115.200781,,,,,,0
 482,482,EB Charleston before Frank,,36.15886,-115.067983,,,,,,0
-483,483,EB Charleston after Fremont,,36.15874,-115.115516,,,,,,0
 484,484,EB Charleston after Hinson,,36.158911,-115.194804,,,,,,0
-485,485,WB Charleston after Hinson,,36.15914,-115.196039,,,,,,0
 486,486,WB Charleston after Honolulu,,36.158963,-115.094151,,,,,,0
 487,487,EB Charleston after Jones,,36.159051,-115.222962,,,,,,0
 488,488,WB Charleston after Jones,,36.159309,-115.224926,,,,,,0
 489,489,EB Charleston after Las Vegas,,36.158734,-115.147005,,,,,,0
 490,490,WB Charleston after Las Vegas,,36.158957,-115.148204,,,,,,0
-491,491,EB Charleston after Lamb,,36.158848,-115.079742,,,,,,0
-492,492,WB Charleston after Lamb,,36.159063,-115.081447,,,,,,0
-495,495,WB Charleston before Marion,,36.159085,-115.073181,,,,,,0
+491,491,EB Charleston after Lamb,,36.158829,-115.078797,,,,,,0
+492,492,WB Charleston after Lamb,,36.159073,-115.081736,,,,,,0
+495,495,WB Charleston before Marion,,36.159131,-115.073652,,,,,,0
 496,496,WB Charleston after Marion,,36.159101,-115.07665,,,,,,0
 497,497,EB Charleston after Maryland,,36.158763,-115.136234,,,,,,0
 498,498,WB Charleston after Maryland,,36.159004,-115.13779,,,,,,0
@@ -239,7 +233,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 510,510,WB Charleston after Palmhurst,,36.159212,-115.255654,,,,,,0
 511,511,WB Charleston before Pecos,,36.158977,-115.099004,,,,,,0
 512,512,WB Charleston after Pecos,,36.158976,-115.102265,,,,,,0
-513,513,EB Charleston after Pleasant Brook,,36.159144,-115.056724,,,,,,0
 515,515,EB Charleston after Rainbow,,36.15901,-115.242706,,,,,,0
 516,516,WB Charleston after Rainbow,,36.159235,-115.244603,,,,,,0
 517,517,EB Charleston after Rancho,,36.158762,-115.172033,,,,,,0
@@ -248,7 +241,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 522,522,EB Charleston after Sacramento,,36.158796,-115.087007,,,,,,0
 523,523,WB Charleston after Sacramento,,36.159001,-115.088303,,,,,,0
 524,524,EB Charleston before Sandhill,,36.158711,-115.094607,,,,,,0
-525,525,EB Charleston before Torrey Pines,,36.159039,-115.237176,,,,,,0
+525,525,EB Charleston before Torrey Pines,,36.159018,-115.238767,,,,,,0
 527,527,WB Charleston after Shetland,,36.159032,-115.178297,,,,,,0
 529,529,WB Charleston before Linn,,36.159523,-115.048505,,,,,,0
 530,530,EB Charleston after Tomsik,,36.158971,-115.272341,,,,,,0
@@ -260,7 +253,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 536,536,EB Charleston after Valley View,,36.158898,-115.191553,,,,,,0
 538,538,EB Charleston after Warbonnet,,36.158981,-115.266414,,,,,,0
 540,540,EB Charleston after Westwind,,36.159062,-115.218688,,,,,,0
-541,541,EB Charleston after Pahor,,36.158776,-115.168063,,,,,,0
 542,542,WB Charleston after Shadow,,36.159018,-115.166251,,,,,,0
 543,543,WB Charleston before Lamont,,36.159137,-115.069275,,,,,,0
 544,544,EB Cheyenne before Pecos,,36.21754,-115.10058,,,,,,0
@@ -281,7 +273,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 560,560,WB Cheyenne after Commerce,,36.218117,-115.143649,,,,,,0
 561,561,EB Cheyenne after Decatur,,36.21718,-115.20682,,,,,,0
 562,562,WB Cheyenne after Decatur,,36.217377,-115.20841,,,,,,0
-563,563,WB Cheyenne after Marion,,36.217859,-115.071827,,,,,,0
+563,563,WB Cheyenne before Marion,,36.217886,-115.070699,,,,,,0
 564,564,EB Cheyenne after Abels,,36.217614,-115.075196,,,,,,0
 565,565,WB Cheyenne after Englestad,,36.21801,-115.148258,,,,,,0
 566,566,EB Cheyenne at Englestad,,36.217774,-115.146801,,,,,,0
@@ -374,7 +366,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 699,699,NB Decatur before Concord Village,,36.192602,-115.205881,,,,,,0
 701,701,NB Decatur after Desert Inn,,36.130532,-115.20791,,,,,,0
 702,702,SB Decatur after Desert Inn,,36.129394,-115.20826,,,,,,0
-703,703,SB Decatur at 1813 N. Decatur,,36.191967,-115.206217,,,,,,0
+703,703,SB Decatur after Lake Mead,,36.191967,-115.206217,,,,,,0
 704,704,SB Decatur after Doe,,36.153076,-115.208152,,,,,,0
 705,705,SB Decatur before Edna,,36.138093,-115.208289,,,,,,0
 706,706,NB Decatur before Eldora,,36.141842,-115.20796,,,,,,0
@@ -483,7 +475,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 854,854,NB Eastern after Sunrise,,36.163259,-115.11573,,,,,,0
 855,855,SB Eastern after Karen,,36.139826,-115.118821,,,,,,0
 856,856,SB Eastern after Kirk,,36.177609,-115.116273,,,,,,0
-857,857,NB Eastern across from Maule,,36.064816,-115.11835,,,,,,0
+857,857,NB Eastern after Warm Springs,,36.064816,-115.11835,,,,,,0
 859,859,NB Eastern after Oakey,,36.152173,-115.11872,,,,,,0
 860,860,SB Eastern after Oakey,,36.151301,-115.118982,,,,,,0
 861,861,NB Eastern after Karen,,36.141229,-115.118592,,,,,,0
@@ -555,7 +547,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 940,940,EB Flamingo after Eastern,,36.114582,-115.118247,,,,,,0
 941,941,WB Flamingo after Eastern,,36.11483,-115.1199,,,,,,0
 942,942,EB Flamingo after Edmond,,36.115101,-115.211861,,,,,,0
-943,943,EB Flamingo across from El Camino,,36.114378,-115.228991,,,,,,0
+943,943,EB Flamingo after Torrey Pines,,36.114378,-115.228991,,,,,,0
 944,944,WB Flamingo after El Camino,,36.114668,-115.229902,,,,,,0
 945,945,EB Flamingo after Eucalyptus,,36.114777,-115.112663,,,,,,0
 946,946,EB Flamingo at The Tuscany,,36.114249,-115.160782,,,,,,0
@@ -617,11 +609,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1033,1033,NB Fremont after St Louis,,36.149271,-115.105142,,,,,,0
 1034,1034,SB Fremont after St Louis,,36.148161,-115.104553,,,,,,0
 1035,1035,NB Sky Pointe at Eagle Crest,,36.268021,-115.257381,,,,,,0
-1036,1036,NB Gibson at 280 N. Gibson,,36.0483,-115.028895,,,,,,0
+1036,1036,NB Gibson after Auto Show,,36.0483,-115.028895,,,,,,0
 1037,1037,SB Gibson after Painted Daisy,,36.047747,-115.029193,,,,,,0
 1039,1039,NB Gibson after Auto Show,,36.04574,-115.029002,,,,,,0
 1041,1041,NB Gibson after Valley Auto,,36.051157,-115.028779,,,,,,0
 1042,1042,SB Gibson after Kelso Dunes,,36.050649,-115.029138,,,,,,0
+1045,1045,EB Gowan after Rio Robles,,36.224997,-115.102038,,,,,,0
 1056,1056,SB Green Valley after High View,,36.066625,-115.082592,,,,,,0
 1059,1059,SB Green Valley after La Mesa,,36.063318,-115.084284,,,,,,0
 1063,1063,SB Green Valley after Lone Pine,,36.060125,-115.085106,,,,,,0
@@ -633,17 +626,22 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1094,1094,EB Harmon before Jimmy Durante,,36.110286,-115.053115,,,,,,0
 1118,1118,EB Hillpointe before Hillsgate,,36.198199,-115.290368,,,,,,0
 1119,1119,EB Hillpointe after Hills Center,,36.198108,-115.300037,,,,,,0
-1120,1120,EB Hillpnte across frm Pinewd Hlls,,36.19926,-115.294911,,,,,,0
+1120,1120,EB Hillpointe at Pinewood Hills,,36.19926,-115.294911,,,,,,0
 1121,1121,SB Hills Center after Hillpointe,,36.197682,-115.300672,,,,,,0
 1123,1123,SB Hills Center after Lake Mead,,36.205549,-115.300023,,,,,,0
 1126,1126,WB Owens after Lamb,,36.188628,-115.0806,,,,,,0
 1127,1127,WB Washington after D,,36.181,-115.147458,,,,,,0
+1134,1134,WB Horizon before Pacific,,36.012652,-114.986655,,,,,,0
 1136,1136,EB Horizon after College,,36.012528,-114.962088,,,,,,0
 1137,1137,WB Horizon after College,,36.01278,-114.964922,,,,,,0
 1139,1139,WB Horizon after Greenway,,36.012683,-114.977503,,,,,,0
 1140,1140,WB Horizon after Mona,,36.012709,-114.968112,,,,,,0
 1144,1144,EB Horizon after Skyline,,36.012429,-114.98071,,,,,,0
 1145,1145,WB Horizon after Skyline,,36.012664,-114.981925,,,,,,0
+1149,1149,NB Sammy Dav Jr after Circ Circ Dr,,36.139799,-115.16738,,,,,,0
+1150,1150,SB Sammy Dav Jr after Circ Circ Dr,,36.139178,-115.168188,,,,,,0
+1153,1153,SB Sammy Davis Jr after So Bridge,,36.143038,-115.165669,,,,,,0
+1154,1154,SB Sammy Davis Jr before Genting,,36.134438,-115.171428,,,,,,0
 1168,1168,NB Jones after Alfred,,36.207688,-115.224316,,,,,,0
 1169,1169,NB Jones after Alta,,36.166865,-115.223692,,,,,,0
 1170,1170,SB Jones before Alta,,36.16687,-115.223915,,,,,,0
@@ -666,11 +664,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1189,1189,SB Jones before Elton,,36.172308,-115.224256,,,,,,0
 1190,1190,NB Jones after Eugene,,36.199064,-115.223712,,,,,,0
 1191,1191,SB Jones after Eugene,,36.198319,-115.223947,,,,,,0
-1192,1192,NB Jones after Evergreen,,36.164009,-115.223742,,,,,,0
+1192,1192,NB Jones after Evergreen,,36.164019,-115.22372,,,,,,0
 1193,1193,SB Jones after Evergreen,,36.162355,-115.22398,,,,,,0
 1194,1194,NB Jones before Upland,,36.171095,-115.223921,,,,,,0
 1195,1195,NB Jones after Flamingo,,36.115467,-115.224762,,,,,,0
 1196,1196,SB Jones after Flamingo,,36.113734,-115.225032,,,,,,0
+1197,1197,SB Jones after Foothill,,36.09577,-115.22524,,,,,,0
 1198,1198,NB Jones after Granada,,36.178906,-115.22382,,,,,,0
 1199,1199,SB Jones after Gunderson,,36.109687,-115.22508,,,,,,0
 1200,1200,SB Jones after Harmon,,36.106427,-115.225123,,,,,,0
@@ -744,26 +743,26 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1326,1326,SB Las Vegas before Washington,,36.181954,-115.134167,,,,,,0
 1328,1328,NB Las Vegas after Agate,,36.02522,-115.17212,,,,,,0
 1329,1329,SB Las Vegas after Agate,,36.024209,-115.17255,,,,,,0
-1332,1332,NB Las Vegas at Paris Las Vegas,,36.112511,-115.172729,,,,,,0
+1332,1332,NB Las Vegas at the Paris,,36.112511,-115.172729,,,,,,0
 1335,1335,SB Las Vegas at Moberly,,36.047819,-115.17249,,,,,,0
 1339,1339,SB Las Vegas at Caesars Palace,,36.11787,-115.173037,,,,,,0
 1343,1343,SB Las Vegas after Charleston,,36.157801,-115.148276,,,,,,0
-1344,1344,SB Las Vegas at Slots-A-Fun,,36.135662,-115.162774,,,,,,0
+1344,1344,SB LV Blvd at Slots-A-Fun/Circ Circ,,36.135662,-115.162774,,,,,,0
 1345,1345,EB Washington after Buffalo,,36.181297,-115.259179,,,,,,0
-1346,1346,NB Las Vegas before Elvis Presley,,36.135569,-115.16253,,,,,,0
-1348,1348,NB Las Vegas after Four Seasons,,36.090364,-115.172673,,,,,,0
+1346,1346,NB Las Vegas at Circus Circus,,36.135215,-115.162685,,,,,,0
+1348,1348,NB LV Blvd at Mandalay By/Four Seas,,36.090364,-115.172673,,,,,,0
 1349,1349,NB Las Vegas at Sky Las Vegas,,36.13802,-115.160931,,,,,,0
 1351,1351,SB Las Vegas at Excalibur,,36.099836,-115.173216,,,,,,0
 1352,1352,SB Las Vegas before Serene,,36.021577,-115.17255,,,,,,0
 1353,1353,NB Las Vegas at The Wynn,,36.126887,-115.168166,,,,,,0
 1354,1354,SB Las Vegas at Fashion Show Mall,,36.126454,-115.168908,,,,,,0
 1356,1356,NB Las Vegas at Harrahs,,36.119215,-115.172542,,,,,,0
-1358,1358,SB Las Vegas before Fremont,,36.16953,-115.140609,,,,,,0
-1360,1360,SB Las Vegas before Fashion Show Dr,,36.128698,-115.167331,,,,,,0
-1363,1363,NB Las Vegas at Luxor,,36.094582,-115.172669,,,,,,0
+1358,1358,SB LV Blvd at Fremont St Experience,,36.16953,-115.140609,,,,,,0
+1360,1360,SB Las Vegas at Encore,,36.130604,-115.166181,,,,,,0
+1363,1363,NB Las Vegas at Luxor/Mandalay Bay,,36.094582,-115.172669,,,,,,0
 1364,1364,SB Las Vegas at Mandalay Bay,,36.092973,-115.173152,,,,,,0
 1366,1366,NB Las Vegas at Planet Hollywood,,36.109652,-115.172706,,,,,,0
-1371,1371,NB Las Vegas at MGM/Showcase,,36.102653,-115.172671,,,,,,0
+1371,1371,NB Las Vegas at MGM/Showcase Mall,,36.102653,-115.172671,,,,,,0
 1374,1374,SB Las Vegas before Clark,,36.164917,-115.143657,,,,,,0
 1375,1375,SB Las Vegas at Luxor,,36.094748,-115.173175,,,,,,0
 1376,1376,SB Las Vegas at The Mirage,,36.120245,-115.172562,,,,,,0
@@ -773,20 +772,19 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1381,1381,NB Las Vegas before Oakey,,36.150864,-115.152544,,,,,,0
 1383,1383,NB Las Vegas before Pebble,,36.027652,-115.172156,,,,,,0
 1384,1384,SB Las Vegas after Pebble,,36.027481,-115.172532,,,,,,0
-1385,1385,NB Las Vegas after Post,,36.074489,-115.172398,,,,,,0
 1386,1386,SB Las Vegas before Sunset,,36.074741,-115.172838,,,,,,0
 1389,1389,SB Las Vegas after Russell,,36.085446,-115.17306,,,,,,0
-1391,1391,NB Las Vegas after Sahara,,36.144094,-115.156968,,,,,,0
+1391,1391,NB Las Vegas after Sahara,,36.144327,-115.156746,,,,,,0
 1392,1392,SB Las Vegas after Sahara,,36.142726,-115.158269,,,,,,0
 1394,1394,SB Las Vegas after Shelbourne,,36.038399,-115.17255,,,,,,0
-1395,1395,NB Las Vegas after Convention Ctr,,36.133257,-115.164016,,,,,,0
+1395,1395,NB LV Blvd after Convention Ctr Dr,,36.133257,-115.164016,,,,,,0
 1397,1397,NB Las Vegas after St Louis,,36.149105,-115.153654,,,,,,0
-1398,1398,SB Las Vegas before Resorts World,,36.131822,-115.16532,,,,,,0
-1400,1400,SB Las Vegas after Main,,36.148063,-115.154667,,,,,,0
+1398,1398,SB Las Vegas before Resorts World,,36.133859,-115.164049,,,,,,0
+1400,1400,SB Las Vegas at the Strat,,36.147838,-115.154824,,,,,,0
 1401,1401,NB Las Vegas at the STRAT,,36.146716,-115.155255,,,,,,0
-1403,1403,SB Las Vegas at TI/Mirage,,36.122751,-115.171364,,,,,,0
+1403,1403,SB Las Vegas at Treasure Island,,36.122751,-115.171364,,,,,,0
 1405,1405,NB Las Vegas before Tropicana,,36.099305,-115.172736,,,,,,0
-1407,1407,NB Las Vegas before Sahara,,36.140246,-115.159481,,,,,,0
+1407,1407,NB Las Vegas at Hilton Grand Vac,,36.140246,-115.159481,,,,,,0
 1408,1408,SB LV Blvd at Hilton Grnd Vacations,,36.139232,-115.160519,,,,,,0
 1409,1409,NB Las Vegas after Wigwam,S LAS VEGAS BLVD & W SHELBOURNE AV,36.03667,-115.172186,,,,,,0
 1410,1410,SB Las Vegas before Wigwam,,36.036147,-115.17255,,,,,,0
@@ -912,7 +910,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1561,1561,SB Lamb after Carey,,36.202404,-115.080312,,,,,,0
 1562,1562,NB Lamb after Karen,,36.141214,-115.082773,,,,,,0
 1563,1563,NB Lamb after Charleston,,36.159647,-115.080107,,,,,,0
-1564,1564,SB Lamb after Charleston,,36.158079,-115.080393,,,,,,0
+1564,1564,SB Lamb after Charleston,,36.158451,-115.080356,,,,,,0
 1565,1565,NB Lamb after Cheyenne,,36.218371,-115.079956,,,,,,0
 1566,1566,SB Lamb before Cheyenne,,36.218143,-115.080227,,,,,,0
 1567,1567,NB Lamb after Cincinnati,,36.145344,-115.08285,,,,,,0
@@ -1034,7 +1032,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1767,1767,SB Maryland after Sierra Vista,,36.126491,-115.137255,,,,,,0
 1768,1768,NB Maryland before Sierra Vista,,36.126055,-115.137009,,,,,,0
 1769,1769,SB Maryland after St Louis,,36.147454,-115.137168,,,,,,0
-1770,1770,NB 13th after Stewart,,36.168532,-115.129708,,,,,,0
+1770,1770,NB 13th after Stewart,,36.168473,-115.12969,,,,,,0
 1771,1771,SB Maryland before Ogden,,36.167427,-115.131697,,,,,,0
 1772,1772,SB Maryland before Desert Inn,,36.132388,-115.137021,,,,,,0
 1773,1773,NB Maryland at Sunrise Hospital,,36.132146,-115.136759,,,,,,0
@@ -1049,7 +1047,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1783,1783,WB Maryland before Wilson,,36.176537,-115.13078,,,,,,0
 1785,1785,McCarran Airprt Zero Lvl On Proprty,,36.085359,-115.147959,,,,,,0
 1788,1788,NB McLeod after Desert Inn,,36.13049,-115.109619,,,,,,0
-1789,1789,SB McLeod after Holly Hill,,36.147153,-115.109992,,,,,,0
+1789,1789,SB McLeod after Scarlet Oak,,36.147153,-115.109992,,,,,,0
 1790,1790,NB McLeod before Sahara,,36.143117,-115.10979,,,,,,0
 1791,1791,SB McLeod after Karen,,36.140154,-115.109983,,,,,,0
 1792,1792,NB McLeod before Palora,,36.133169,-115.109658,,,,,,0
@@ -1452,7 +1450,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2485,2485,WB Sahara after Tree Line,,36.144686,-115.034525,,,,,,0
 2487,2487,EB Sahara after Valley View,,36.144263,-115.189838,,,,,,0
 2489,2489,WB Sahara after Walnut,,36.144478,-115.087909,,,,,,0
-2491,2491,Winterwood Blvd,,36.146129,-115.05649,,,,,,0
+2491,2491,EB Sahara after Winterwood,,36.146129,-115.05649,,,,,,0
 2492,2492,WB Sahara after Winterwood,,36.14617,-115.05774,,,,,,0
 2504,2504,EB Sands after Koval,,36.122252,-115.163026,,,,,,0
 2505,2505,WB Sands after Koval,,36.122582,-115.164882,,,,,,0
@@ -1596,7 +1594,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2723,2723,NB Univers Ctr before Sierra Vista,,36.124684,-115.146011,,,,,,0
 2724,2724,NB Univers Ctr after Sierra Vista,,36.127379,-115.146015,,,,,,0
 2725,2725,NB University Ctr after Tropicana,,36.101584,-115.145872,,,,,,0
-2727,2727,NB University Ctr after Twain,,36.122174,-115.146086,,,,,,0
+2727,2727,NB University Ctr after Twain,,36.122605,-115.146047,,,,,,0
 2730,2730,NB Tenaya after Box Canyon,,36.208963,-115.249522,,,,,,0
 2733,2733,NB Tenaya before Cheyenne,,36.216339,-115.251008,,,,,,0
 2734,2734,NB Tenaya before Cascade Valley,,36.211258,-115.249287,,,,,,0
@@ -1619,7 +1617,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2773,2773,WB Town Ctr after Covington Cross,,36.182803,-115.311447,,,,,,0
 2774,2774,WB Town Center after Spring Gate,,36.188758,-115.304824,,,,,,0
 2775,2775,WB Town Center before Hualapai,,36.179299,-115.316501,,,,,,0
-2780,2780,WB Tropicana before Mountain Vista,,36.100408,-115.069007,,,,,,0
+2779,2779,EB Tropical after Hollowridge,,36.269124,-115.156297,,,,,,0
+2780,2780,WB Tropicana before Mountain Vista,,36.10038,-115.069207,,,,,,0
 2783,2783,EB Tropicana after Lindell,,36.100404,-115.2144,,,,,,0
 2784,2784,EB Tropicana after Duneville,,36.100058,-115.220047,,,,,,0
 2785,2785,EB Tropicana after Arville,,36.100769,-115.19864,,,,,,0
@@ -1754,7 +1753,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2980,2980,EB Vegas after Rancho,,36.188389,-115.185197,,,,,,0
 2981,2981,WB Vegas after Rancho,,36.188611,-115.187035,,,,,,0
 2982,2982,EB Vegas after Riverside,,36.188378,-115.179868,,,,,,0
-2983,2983,WB Vegas before Wintergreen,,36.188768,-115.248687,,,,,,0
+2983,2983,WB Vegas after Rock Springs,,36.18875,-115.247145,,,,,,0
 2984,2984,WB Vegas after Royal Palm,,36.1888,-115.252159,,,,,,0
 2985,2985,EB Vegas after Saylor,,36.188263,-115.219324,,,,,,0
 2986,2986,WB Vegas after Saylor,,36.18849,-115.221405,,,,,,0
@@ -1765,7 +1764,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2992,2992,WB Vegas after Torrey Pines,,36.188659,-115.234039,,,,,,0
 2994,2994,WB Vegas after Valley,,36.18843,-115.197148,,,,,,0
 2995,2995,WB Vegas after Windchime,,36.188612,-115.181371,,,,,,0
-2996,2996,EB Vegas after Wintergreen,,36.188568,-115.248429,,,,,,0
+2996,2996,EB Vegas after Rock Springs,,36.188559,-115.246313,,,,,,0
 2997,2997,EB Vegas after Yellow Rose,,36.188167,-115.201027,,,,,,0
 2999,2999,WB Village Center after Hills Ctr,,36.193665,-115.301648,,,,,,0
 3000,3000,NB Village Center after Hillshire,,36.188947,-115.301697,,,,,,0
@@ -1894,7 +1893,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3174,3174,EB Westcliff before Buffalo,,36.173887,-115.262709,,,,,,0
 3212,3212,SB Martin L King before Vegas,,36.189308,-115.161034,,,,,,0
 3215,3215,NB Rainbow after Hacienda,,36.092976,-115.24278,,,,,,0
-3216,3216,NB Rainbow at Spanish Palms Condos.,,36.09466,-115.242815,,,,,,0
+3216,3216,NB Rainbow at Spanish Palms Condos,,36.09466,-115.242815,,,,,,0
 3217,3217,NB Rainbow after Tropicana,,36.100325,-115.242915,,,,,,0
 3218,3218,NB Rainbow after Spring Valley,,36.104003,-115.242878,,,,,,0
 3219,3219,NB Rainbow after Balzar,,36.200016,-115.242182,,,,,,0
@@ -1964,18 +1963,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3383,3383,WB Sahara after Crystal Water,,36.144271,-115.28839,,,,,,0
 3389,3389,EB Charleston after Apple,,36.158874,-115.301985,,,,,,0
 3390,3390,EB Charleston before Fort Apache,,36.158891,-115.295103,,,,,,0
-3391,3391,EB Charleston after Emerywood,,36.15896,-115.276466,,,,,,0
 3392,3392,EB Charleston before 8th,,36.158727,-115.143514,,,,,,0
-3393,3393,EB Charleston after Christy,,36.159288,-115.052761,,,,,,0
 3394,3394,EB Sahara after Pioneer,,36.143652,-115.255933,,,,,,0
 3395,3395,SB Tree Line after Charleston,,36.158765,-115.039969,,,,,,0
 3396,3396,SB Tree Line after Grape Blossom,,36.154491,-115.03812,,,,,,0
 3397,3397,SB Tree Line after American Beauty,,36.150947,-115.034434,,,,,,0
-3398,3398,SB Tree Line after Wildcat,,36.148067,-115.033776,,,,,,0
 3399,3399,NB Sloan after Sahara,,36.145452,-115.047144,,,,,,0
 3402,3402,WB Charleston before Antelope,,36.15922,-115.250114,,,,,,0
 3403,3403,WB Charleston after Buffalo,,36.159201,-115.263019,,,,,,0
-3404,3404,WB Charleston after Shelter Island,,36.159199,-115.266597,,,,,,0
 3405,3405,WB Charleston after Cimarron,,36.159183,-115.272461,,,,,,0
 3406,3406,WB Charleston before Heavenly Hills,,36.159174,-115.277036,,,,,,0
 3413,3413,WB Sahara before Pioneer,,36.143981,-115.255297,,,,,,0
@@ -2051,7 +2046,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3772,3772,WB Spring Mountain after Tenaya,,36.125739,-115.252961,,,,,,0
 3775,3775,WB Charleston after Rampart,,36.159166,-115.292139,,,,,,0
 3776,3776,WB Charleston after Hualapai,,36.159104,-115.315151,,,,,,0
-3777,3777,WB Charleston after Town Center,,36.159114,-115.324508,,,,,,0
 3789,3789,WB Washington before Buffalo,,36.18147,-115.257198,,,,,,0
 3790,3790,EB Washington at 7501 W. Washington,,36.18125,-115.257198,,,,,,0
 3798,3798,WB Cheyenne after Campbell,,36.218718,-115.293439,,,,,,0
@@ -2127,11 +2121,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4001,4001,SB Pecos after Robindale,,36.049168,-115.10043,,,,,,0
 4003,4003,SB Pecos after Windmill,,36.04185,-115.100419,,,,,,0
 4004,4004,SB Pecos after Sun Shadow,,36.038094,-115.100384,,,,,,0
+4011,4011,EB Anne after Clayton,,36.261605,-115.170304,,,,,,0
 4014,4014,EB Ann after Santa Flora,,36.261614,-115.150531,,,,,,0
+4018,4018,WB Ann after Rancho Palms,,36.261823,-115.149503,,,,,,0
+4019,4019,WB Ann before Revere,,36.261908,-115.153615,,,,,,0
 4021,4021,WB Tropical after Revere,,36.269284,-115.153909,,,,,,0
 4023,4023,SB Camino Eldorado after Tropical,,36.267961,-115.160275,,,,,,0
 4024,4024,SB Camino Eldorado after Bent Arrow,,36.265737,-115.15901,,,,,,0
 4025,4025,SB Camino Eldorado after Red Hollow,,36.263132,-115.157896,,,,,,0
+4026,4026,WB Ann after Camino Eldorado,,36.261179,-115.157413,,,,,,0
 4034,4034,WB Craig after Kings Hill,,36.239585,-115.148894,,,,,,0
 4037,4037,SB Nellis before Bonanza,,36.174957,-115.062329,,,,,,0
 4038,4038,SB Rainbow across from Lost Dutchmn,,36.185028,-115.242402,,,,,,0
@@ -2153,7 +2151,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4092,4092,SB Gr Centr at LV Prem Outlets-Nort,,36.163237,-115.157058,,,,,,0
 4107,4107,EB Charleston after Town Center,,36.158812,-115.321982,,,,,,0
 4119,4119,NB Gilespie after Carpenters Union,,36.066339,-115.163338,,,,,,0
-4172,4172,NB Las Vegas before Sunset,,36.068633,-115.172172,,,,,,0
+4172,4172,NB Las Vegas at Las Vegas Golf,,36.068633,-115.172172,,,,,,0
 4179,4179,NB Durango after Alta,,36.166955,-115.27782,,,,,,0
 4180,4180,WB Charleston after Palace,,36.159086,-115.30383,,,,,,0
 4183,4183,NB Las Vegas after Washington,,36.182698,-115.133882,,,,,,0
@@ -2164,6 +2162,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4222,4222,NB Decatur after Lone Mountain,,36.247373,-115.207409,,,,,,0
 4223,4223,NB Decatur after La Madre,,36.250974,-115.207386,,,,,,0
 4224,4224,NB Decatur after Washburn,,36.25511,-115.207244,,,,,,0
+4225,4225,WB Ann after Decatur,,36.261709,-115.2078,,,,,,0
+4226,4226,WB Ann after Twilight Chase,,36.26139,-115.212739,,,,,,0
+4227,4227,WB Ann after Bradley,,36.26118,-115.217053,,,,,,0
 4229,4229,NB Village Park after Paseo Verde,,36.020102,-115.087602,,,,,,0
 4231,4231,SB Las Vegas after Wigwam,,36.034177,-115.17257,,,,,,0
 4233,4233,NB Decatur after Hammer,,36.258276,-115.20718,,,,,,0
@@ -2200,7 +2201,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4316,4316,SB Boulder after Equestrian,,36.010135,-114.949292,,,,,,0
 4317,4317,NB Boulder after Equestrian,,36.011408,-114.949946,,,,,,0
 4322,4322,SB Las Vegas before Tonopah,,36.192301,-115.132653,,,,,,0
-4324,4324,South Strip Transit Terminal (SSTT),,36.06841,-115.16557,,,,,,0
 4333,4333,WB Pilot after Paradise,,36.06636,-115.141721,,,,,,0
 4334,4334,SB Bermuda after Pilot,,36.067426,-115.154677,,,,,,0
 4338,4338,SB Las Vegas after Ford,,36.031171,-115.172529,,,,,,0
@@ -2229,14 +2229,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4428,4428,NB Jones after Santa Catalina,,36.220418,-115.225679,,,,,,0
 4430,4430,NB Jones before Gowan,,36.223866,-115.225657,,,,,,0
 4431,4431,NB Jones after Edward,,36.228798,-115.225444,,,,,,0
-4432,4432,NB Jones after Rancho,,36.233391,-115.225899,,,,,,0
-4433,4433,NB Jones after Hickam,,36.236906,-115.225372,,,,,,0
+4435,4435,SB Jones after Craig,,36.237994,-115.225671,,,,,,0
+4436,4436,SB Jones before Starkweather,,36.235135,-115.225632,,,,,,0
 4437,4437,SB Jones after Rancho,,36.230537,-115.225509,,,,,,0
 4438,4438,SB Jones after Gilmore,,36.22749,-115.225746,,,,,,0
 4439,4439,SB Jones after Gowan,,36.223607,-115.225868,,,,,,0
 4441,4441,SB Jones after Buckskin,,36.220115,-115.225889,,,,,,0
 4442,4442,SB Simmons before Cheyenne,,36.21855,-115.179652,,,,,,0
-4443,4443,SB Simmons before Citizen,,36.20773,-115.179184,,,,,,0
+4443,4443,SB Simmons before Citizen,,36.207203,-115.179171,,,,,,0
 4444,4444,EB Craig after Kings Hill,,36.2393,-115.146986,,,,,,0
 4450,4450,NB Rancho after Lone Mountain,,36.248359,-115.240395,,,,,,0
 4453,4453,WB Centennial after Tenaya,,36.277006,-115.252612,,,,,,0
@@ -2259,6 +2259,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5052,5052,NB Las Vegas after Lake Mead,,36.196736,-115.127848,,,,,,0
 5058,5058,EB Craig after 5th,,36.239491,-115.133563,,,,,,0
 5066,5066,NB Simmons after Washburn,,36.254563,-115.179886,,,,,,0
+5067,5067,EB Anne after Simmons,,36.261457,-115.179134,,,,,,0
+5068,5068,EB Anne after Coleman,,36.261553,-115.17493,,,,,,0
 5087,5087,NB Simmons after Hammer,,36.258733,-115.17985,,,,,,0
 5093,5093,SB Pecos after Oquendo,,36.082317,-115.10109,,,,,,0
 5102,5102,WB Russell after Las Vegas,,36.086327,-115.174545,,,,,,0
@@ -2299,7 +2301,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5204,5204,SB Durango after El Capitan,,36.30096,-115.283304,,,,,,0
 5206,5206,SB Durango after Elkhorn,,36.291031,-115.288028,,,,,,0
 5207,5207,SB Durango after Dorrell,,36.28763,-115.28799,,,,,,0
-5209,5209,WB Charleston after Indigo,,36.159123,-115.319015,,,,,,0
 5210,5210,EB Warm Springs after Valle Verde,,36.056158,-115.068205,,,,,,0
 5211,5211,EB Warm Springs after Norlina,,36.056124,-115.064244,,,,,,0
 5213,5213,NB Green Valley after Wigwam,,36.034838,-115.084237,,,,,,0
@@ -2321,6 +2322,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5285,5285,NB Stephanie after I 215,,36.031226,-115.046927,,,,,,0
 5286,5286,NB Stephanie after Wigwam,,36.035385,-115.04672,,,,,,0
 5287,5287,NB Stephanie at 170 N. Stephanie,,36.037253,-115.046735,,,,,,0
+5289,5289,EB Silverado Rnch at South Pt Hotel,,36.013439,-115.174719,,,,,,0
 5316,5316,EB Warm Springs after Marks,,36.056167,-115.036587,,,,,,0
 5325,5325,WB Horizon Ridge after Pancho Via,,36.022031,-115.034165,,,,,,0
 5326,5326,EB American Pacific after Stephanie,,36.041636,-115.045915,,,,,,0
@@ -2334,6 +2336,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5367,5367,EB Ann after Commerce,,36.261409,-115.143224,,,,,,0
 5369,5369,NB Mrtn L King at 4120 Mrtn L King,,36.234943,-115.161862,,,,,,0
 5370,5370,SB Martin L King before Coralie,,36.234744,-115.162126,,,,,,0
+5372,5372,WB Ann after Commerce,,36.261768,-115.144812,,,,,,0
 5375,5375,WB Lake Mead after McCarran,,36.195954,-115.112853,,,,,,0
 5376,5376,NB Gilespie after Warm Springs,,36.057897,-115.163242,,,,,,0
 5377,5377,NB Gilespie at McCarran R-A-C Ctr,,36.060209,-115.163309,,,,,,0
@@ -2358,7 +2361,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5411,5411,WB Ann after Rainbow,W ANN RD & W TROPICANA AV,36.263312,-115.243106,,,,,,0
 5412,5412,NB Centennial Center after US 95,CENTENNIAL CENTER BLVD & PAINTED MIRAGE RD,36.275452,-115.27001,,,,,,0
 5413,5413,SB Rainbow after Russell,S RAINBOW BLVD & W QUAIL AV,36.08441,-115.242962,,,,,,0
-5415,5415,SB Duneville after Tropicana,DUNEVILLE ST & W TROPICANA AV,36.099618,-115.22087,,,,,,0
 5416,5416,EB Farm after Tule Springs,FARM RD & VIRGINIA DALE ST,36.298956,-115.277915,,,,,,0
 5418,5418,NB Las Vegas before Craig,N LAS VEGAS BLVD & W WARM SPRINGS RD,36.239434,-115.055972,,,,,,0
 5419,5419,SB Whitney Ranch after Russell,WHITNEY RANCH DR & E RUSSELL RD,36.081542,-115.053932,,,,,,0
@@ -2382,7 +2384,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5448,5448,EB Warm Springs after Rainbow,,36.055664,-115.242217,,,,,,0
 5449,5449,NB Buffalo after Patrick,,36.078708,-115.260647,,,,,,0
 5454,5454,SB Paradise before Convention Ctr,Paradise & Convention Center,36.132808,-115.154985,,,,,,0
-5457,5457,Sahara @ Sloan (E),,36.144453,-115.046186,,,,,,0
+5457,5457,EB Sahara after Sloan,,36.144453,-115.046186,,,,,,0
 5458,5458,EB Vegas Valley before Hollywood,Vegas Valley & Peter Lorre,36.137084,-115.030472,,,,,,0
 5460,5460,NB Main after Charleston,,36.159374,-115.153399,,,,,,0
 5461,5461,SB Casino Center before Fremont,,36.170924,-115.144028,,,,,,0
@@ -2404,13 +2406,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5484,5484,WB Vegas after Robin,Vegas Dr & Robin Dr,36.188603,-115.176222,,,,,,0
 5485,5485,NB Las Vegas at Polo Towers,Las Vegas Blvd & Polo Towers,36.105725,-115.17272,,,,,,0
 5486,5486,WB Warm Springs after Las Vegas,Warm Springs & Las Vegas Blvd,36.057039,-115.17328,,,,,,0
-5488,5488,Tree Line @ Cascade Run (S),Treeline Dr & Cascade Run Ave,36.14094,-115.033723,,,,,,0
+5488,5488,SB Tree Line after Cascade Run,Treeline Dr & Cascade Run Ave,36.14094,-115.033723,,,,,,0
 5497,5497,WB Badura before Edmond,Badura Ave & Edmond St,36.064306,-115.211617,,,,,,0
 5499,5499,NB Jones after Warm Springs,Jones Blvd & Warm Springs Rd,36.057058,-115.224744,,,,,,0
 5500,5500,SB Rainbow after Sunset,Rainbow Blvd & Sunset Rd,36.069996,-115.242687,,,,,,0
 5501,5501,NB Rainbow after Russell,S RAINBOW BLVD & W RUSSELL RD,36.085527,-115.242639,,,,,,0
-5504,5504,SB Duneville after Reno,DUNEVILLE ST & W ALI BABA LA,36.09615,-115.220885,,,,,,0
-5506,5506,WB Hacienda after Duneville,W HACIENDA AV & DUNEVILLE ST,36.092921,-115.22137,,,,,,0
 5507,5507,NB Jones after Hacienda,S JONES BLVD & W HACIENDA AV,36.093146,-115.224931,,,,,,0
 5508,5508,NB Jones after Reno,S JONES BLVD & W HACIENDA AV,36.096756,-115.224927,,,,,,0
 5510,5510,SB Decatur before Rice,N DECATUR BLVD & RANCH HOUSE RD,36.272317,-115.206876,,,,,,0
@@ -2430,7 +2430,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5526,5526,SB Decatur after Rancho,N DECATUR BLVD & MADRE MESA DR,36.209308,-115.205796,,,,,,0
 5527,5527,SB Decatur after Bevvie,N DECATUR BLVD & JEAN AV,36.204992,-115.205909,,,,,,0
 5531,5531,NB Decatur after El Campo Grande,N DECATUR BLVD & W EL CAMPO GRANDE AV,36.265776,-115.206876,,,,,,0
-5533,5533,NB Decatur before Deer Springs,N DECATUR BLVD & W TROPICAL PKWY,36.277893,-115.206302,,,,,,0
+5533,5533,NB Decatur before Rome,N DECATUR BLVD & W TROPICAL PKWY,36.277893,-115.206302,,,,,,0
 5536,5536,EB Russell after Polaris,W RUSSELL RD & POLARIS AV,36.085924,-115.18486,,,,,,0
 5538,5538,SB Camino Al Norte before Washburn,CAMINO AL NORTE & W WASHBURN RD,36.25791,-115.153292,,,,,,0
 5539,5539,SB Camino Al Norte after Washburn,CAMINO AL NORTE & W WASHBURN RD,36.253497,-115.153286,,,,,,0
@@ -2440,7 +2440,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5543,5543,NB Camino Al Norte after Washburn,CAMINO AL NORTE & W WASHBURN RD,36.255022,-115.152987,,,,,,0
 5544,5544,NB Camino Al Norte after Edna Crane,CAMINO AL NORTE & W WASHBURN RD,36.258622,-115.15324,,,,,,0
 5545,5545,EB Ann after Drexel,W ANN RD & EIFEL TOWER ST,36.262984,-115.24976,,,,,,0
-5546,5546,EB Ann after Rio Vista,W ANN RD & EIFEL TOWER ST,36.263039,-115.246291,,,,,,0
+5546,5546,EB Ann after Rio Vista,,36.263039,-115.246291,,,,,,0
 5547,5547,NB Rainbow after Rancho,N RAINBOW BLVD & W LA MADRE WY,36.251155,-115.242217,,,,,,0
 5548,5548,NB Rainbow after Rancho Santa Fe,N RAINBOW BLVD & RANCHO SANTA FE DR,36.256732,-115.242161,,,,,,0
 5549,5549,NB Rainbow after Hammer,N RAINBOW BLVD & SEA POPPY AV,36.25969,-115.242205,,,,,,0
@@ -2461,7 +2461,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5574,5574,SB Cimarron after Elkhorn,N CIMARRON RD & SIERRA RIM DR,36.29042,-115.269587,,,,,,0
 5575,5575,SB Cimarron after Hesperides,N CIMARRON RD & HESPERIDES AV,36.28713,-115.269674,,,,,,0
 5576,5576,WB Azure after Tenaya,W AZURE DR & N TENAYA WY,36.273552,-115.25223,,,,,,0
-5577,5577,WB Azure at Findlay Honda,W AZURE DR & N TENAYA WY,36.274684,-115.258089,,,,,,0
+5577,5577,WB Azure at Findlay Honda,W AZURE DR & N TENAYA WY,36.274814,-115.259982,,,,,,0
 5578,5578,SB Sky Pointe before Tenaya,SKY POINTE DR & N TENAYA WY,36.264865,-115.25403,,,,,,0
 5579,5579,SB Pecos after Wigwam,N PECOS RD & WIGWAM PKWY,36.033693,-115.100405,,,,,,0
 5581,5581,SB Pecos after Pebble,S PECOS RD & E PEBBLE RD,36.027178,-115.100636,,,,,,0
@@ -2495,7 +2495,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5626,5626,NB Las Vegas before Robindale,S LAS VEGAS BLVD & E MOBERLY AV,36.049107,-115.172178,,,,,,0
 5633,5633,WB Alta after Tonopah,ALTA DR & PINTO LA,36.166341,-115.170481,,,,,,0
 5636,5636,WB Basic after Texas,E BASIC RD & S TEXAS AV,36.03111,-114.97797,,,,,,0
-5639,5639,SB Pacific after Atlantic,W PACIFIC AV & E ATLANTIC AV,36.03144,-114.986879,,,,,,0
 5644,5644,SB Rancho after Llewellyn,S RANCHO DR & WALDMAN AV,36.154322,-115.173058,,,,,,0
 5645,5645,SB Rancho after Oakey,S RANCHO DR & WALDMAN AV,36.151002,-115.173151,,,,,,0
 5646,5646,SB Rancho before Sahara,S RANCHO DR & RAMP US95S VL VIEW S,36.145497,-115.173275,,,,,,0
@@ -2543,7 +2542,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5720,5720,SB Maryland after King Richard,S MARYLAND PKWY & RAWHIDE ST,36.090312,-115.137038,,,,,,0
 5721,5721,WB Russell after Whitney Ranch,E RUSSELL RD & W GALLERIA DR,36.082534,-115.054385,,,,,,0
 5722,5722,WB Sunset before Pecos,E SUNSET RD & S PEARL ST,36.071559,-115.097269,,,,,,0
-5723,5723,EB Sunset before Sandhill,E SUNSET RD & SANDHILL RD,36.071251,-115.095114,,,,,,0
+5723,5723,EB Sunset before Sandhill,E SUNSET RD & S PEARL ST,36.071251,-115.095114,,,,,,0
 5725,5725,CSN Hend Campus On Property Stop,COLLEGE DR & HEATHER DR,36.006189,-114.964727,,,,,,0
 5726,5726,NB Fort Apache after Hacienda,S FORT APACHE RD & W RENO AV,36.093814,-115.297231,,,,,,0
 5727,5727,EB Tropicana before Durango,W TROPICANA AV & S DURANGO DR,36.09993,-115.279988,,,,,,0
@@ -2552,6 +2551,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5731,5731,WB Cheyenne after Metro Academy,W CHEYENNE AV & METRO ACADEMY WY,36.218507,-115.312848,,,,,,0
 5733,5733,WB Craig after Scott Robinson,W CRAIG RD & SCOTT ROBINSON BLVD,36.239573,-115.167214,,,,,,0
 5734,5734,SB Sky Pointe at Ranch House,SKY POINTE DR & RANCH HOUSE RD,36.270714,-115.260056,,,,,,0
+5735,5735,EB Azure after Sky Pointe,W AZURE DR & S CASINO CENTER BLVD,36.274629,-115.259895,,,,,,0
 5737,5737,SB Buffalo at Sunny Springs Park,N BUFFALO DR & SUNNY SPRINGS LA,36.29413,-115.259356,,,,,,0
 5740,5740,WB Flamingo after Durango,W FLAMINGO RD & S DURANGO DR,36.115067,-115.279658,,,,,,0
 5743,5743,WB Tropicana after Ripple Stream,W TROPICANA AV & SPANISH HILLS DR,36.100159,-115.284518,,,,,,0
@@ -2575,7 +2575,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5765,5765,SB Fort Apache after Rochelle,S FORT APACHE RD & W ROCHELLE AV,36.110949,-115.29724,,,,,,0
 5766,5766,SB Fort Apache before Peace,FT APACHE & S FORT APACHE RD,36.108337,-115.29728,,,,,,0
 5767,5767,WB Peace after Chieftain,PEACE WY & S TEE PEE LA,36.107637,-115.301049,,,,,,0
-5768,5768,WB Peace before Grand Canyon,PEACE WY & S TEE PEE LA,36.108238,-115.306025,,,,,,0
+5768,5768,NB Peace before Grand Canyon,PEACE WY & S TEE PEE LA,36.108238,-115.306025,,,,,,0
 5770,5770,EB Flamingo after Grand Canyon,W FLAMINGO RD & S GRAND CANYON DR,36.114929,-115.306067,,,,,,0
 5772,5772,EB Flamingo after Fort Apache,W FLAMINGO RD & S FORT APACHE RD,36.114797,-115.29642,,,,,,0
 5773,5773,EB Flamingo before El Capitan,W FLAMINGO RD & S EL CAPITAN WY,36.114796,-115.291556,,,,,,0
@@ -2620,7 +2620,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5863,5863,NB Valley View before U.S. 95,S VALLEY VIEW BLVD & RAMP US95S VL VIEW S,36.173143,-115.192499,,,,,,0
 5864,5864,SB Valley View before Meadows,S VALLEY VIEW BLVD & RAMP US95S VL VIEW S,36.173176,-115.192804,,,,,,0
 5866,5866,WB Meadows after Valley View,MEADOWS LA & S VALLEY VIEW BLVD,36.17022,-115.193773,,,,,,0
-5867,5867,WB Silverado Ranch after Maryland,E SILVERADO RANCH BLVD & S MARYLAND PKWY,36.013388,-115.137349,,,,,,0
+5867,5867,WB Silverado Ranch after Maryland,E SILVERADO RANCH BLVD & S MARYLAND PKWY,36.013401,-115.137909,,,,,,0
 5869,5869,WB Discovery after Breakthrough,DISCOVERY DR & BREAKTHROUGH WY,36.122009,-115.322568,,,,,,0
 5874,5874,EB Desert Inn after Park,Desert Inn Rd & Surfline Dr,36.129718,-115.301779,,,,,,0
 5875,5875,EB Desert Inn before Grand Canyon,Desert Inn Rd & Grand Canyon Dr,36.12971,-115.30682,,,,,,0
@@ -2648,6 +2648,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5897,5897,SB Simmons after Hammer,Simmons St & Hammer Ln,36.257465,-115.180143,,,,,,0
 5898,5898,SB Simmons after Washburn,Simmons St & Washburn Rd,36.253625,-115.180174,,,,,,0
 5899,5899,SB Simmons after Crackling Leaves,Simmons St & Crackling Leaves Ave,36.250939,-115.180199,,,,,,0
+5903,5903,WB Ann after Clayton,Ann Rd & Clayton St,36.261861,-115.17226,,,,,,0
+5904,5904,WB Ann after Coleman,Ann Rd & Coleman St,36.261782,-115.175902,,,,,,0
 5906,5906,WB Silverado Ranch after Paradise,Silverado Ranch Blvd & Pyramid Cove,36.01338,-115.141889,,,,,,0
 5907,5907,WB Sahara after Grand Canyon,Sahara Ave & Grand Canyon Dr,36.144552,-115.307311,,,,,,0
 5909,5909,EB Pyle after Maryland,Pyle Ave & Maryland Pkwy,36.00622,-115.13624,,,,,,0
@@ -2684,7 +2686,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5979,5979,EB Searles after 21st,Searles Ave & 21st St,36.184768,-115.1198,,,,,,0
 5980,5980,WB Searles after Eastern,Searles Ave & Eastern Ave,36.184927,-115.116587,,,,,,0
 5981,5981,WB Searles after 21st,Searles Ave & 21st St,36.184907,-115.121517,,,,,,0
-5992,5992,Sahara @ Tee (E),Sahara Ave & Tee St,36.145127,-115.060611,,,,,,0
+5992,5992,EB Sahara after Tee,Sahara Ave & Tee St,36.145127,-115.060611,,,,,,0
 5993,5993,NB Lamb before Gobi Sands,Lamb Blvd & 4210 Lamb Blvd,36.23654,-115.079947,,,,,,0
 5994,5994,SB Lamb after Macadamia,Lamb Blvd & Macadamia Dr,36.235659,-115.080248,,,,,,0
 5996,5996,SB Nevada State after Conestoga,Nevada State Dr & Private Dr,35.992435,-114.935795,,,,,,0
@@ -2707,7 +2709,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6019,6019,WB Flamingo before Mojave,Flamingo Rd & Mojave Rd,36.115273,-115.104979,,,,,,0
 6020,6020,SB Lamb after Cartier,Lamb Blvd & Cartier Ave,36.206077,-115.080323,,,,,,0
 6024,6024,SB Nellis after Cartier,Nellis Blvd & Cartier Ave,36.20664,-115.06238,,,,,,0
-6026,6026,South Strip Transit Terminal Bay 1,South Strip Terminal,36.068293,-115.164349,,,,,,0
 6028,6028,South Strip Transit Terminal Bay 3,South Strip Terminal,36.068293,-115.164922,,,,,,0
 6029,6029,South Strip Transit Terminal Bay 4,South Strip Terminal,36.068284,-115.165272,,,,,,0
 6031,6031,South Strip Transit Terminal Bay 6,South Strip Terminal,36.068277,-115.165774,,,,,,0
@@ -2726,28 +2727,31 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6059,6059,EB Elkhorn after Durango,Elkhorn Rd & Durango Dr,36.291643,-115.286943,,,,,,0
 6060,6060,WB Craig after Rancho,Craig Rd & Rancho Dr,36.239893,-115.23403,,,,,,0
 6063,6063,EB Vegas Valley before Juniper Hlls,Vegas Valley Dr & Juniper Hills Blvd,36.13695,-115.060984,,,,,,0
-6064,6064,Cabana @ Vegas Valley,Cabana Dr & Vegas Valley Dr,36.136565,-115.056488,,,,,,0
-6065,6065,Desert Inn @ Cabana,Desert Inn Rd & Cabana Dr,36.130198,-115.056423,,,,,,0
-6066,6066,Desert Inn @ Cabana (W),Desert Inn Rd & 5300 Desert Inn Rd,36.12977,-115.059443,,,,,,0
+6064,6064,SB Cabana after Vegas Valley,Cabana Dr & Vegas Valley Dr,36.136565,-115.056488,,,,,,0
+6065,6065,SB Cabana before Desert Inn,Desert Inn Rd & Cabana Dr,36.130198,-115.056423,,,,,,0
+6066,6066,WB Desert Inn after Cabana,Desert Inn Rd & 5300 Desert Inn Rd,36.12977,-115.059443,,,,,,0
 6067,6067,WB Vegas Valley before Mtn Vista,Vegas Valley Dr & 4800 Vegas Valley Dr,36.137051,-115.070735,,,,,,0
 6068,6068,WB Vegas Valley after Mtn Vista,Vegas Valley Dr & Mountain Vista St,36.137044,-115.074775,,,,,,0
 6069,6069,WB Vegas Valley before Marion,Vegas Valley Dr & Marion St,36.137047,-115.078133,,,,,,0
+6071,6071,EB No Bridge after Sammy Davis Jr,Northbridge Ln & Industrial Rd,36.144344,-115.163957,,,,,,0
 6072,6072,SB Rainbow after Roy Horn,Rainbow Blvd & Roy Horn Way,36.064601,-115.242697,,,,,,0
 6073,6073,EB Warm Springs before Leek,Warm Springs Rd & Leek St,36.055875,-115.237392,,,,,,0
 6074,6074,EB Warm Springs after Torrey Pines,Warm Springs Rd & Torrey Pines Dr,36.056004,-115.233133,,,,,,0
 6075,6075,EB Warm Springs before Jones,Warm Springs Rd & Folded Mountain Way,36.056185,-115.228999,,,,,,0
+6076,6076,SB Jones after Warm Springs,Jones Blvd & Warm Springs Rd,36.055477,-115.225192,,,,,,0
+6077,6077,SB Jones after Eldorado,Jones Blvd & Eldorado Ln,36.052236,-115.2253,,,,,,0
 6082,6082,NB Rainbow after Robindale,Rainbow Blvd & Robindale Rd,36.049187,-115.24305,,,,,,0
 6083,6083,NB Rainbow after Warm Springs,Rainbow Blvd & Warm Springs Rd,36.056437,-115.242784,,,,,,0
 6086,6086,NB Rainbow after Patrick,Rainbow Blvd & Patrick Ln,36.078245,-115.2425,,,,,,0
-6087,6087,Valley View @ Russell (N),Valley View Blvd & Russell Rd,36.086869,-115.189725,,,,,,0
-6088,6088,Valley View @ Diablo (N),Valley View Blvd & Diablo Dr,36.089454,-115.18973,,,,,,0
+6087,6087,NB Valley View after Russell,Valley View Blvd & Russell Rd,36.086869,-115.189725,,,,,,0
+6088,6088,NB Valley View before Diablo,Valley View Blvd & Diablo Dr,36.089454,-115.18973,,,,,,0
 6094,6094,EB Warm Springs after Placid,Warm Springs Rd & Placid St,36.056837,-115.158371,,,,,,0
 6097,6097,EB Vegas Valley after Lamb,Vegas Valley Dr & Lawndale St,36.13689,-115.082546,,,,,,0
 6098,6098,EB Vegas Valley after Parkdale,Vegas Valley Dr & Parkdale Ave,36.136892,-115.076945,,,,,,0
 6099,6099,EB Vegas Valley after Mtn Vista,Vegas Valley Dr & Mountain Vista St,36.136883,-115.073634,,,,,,0
 6100,6100,EB Vegas Valley after Aloha,Vegas Valley Dr & Aloha Ave,36.136882,-115.069462,,,,,,0
-6101,6101,Sahara @ Orchard Valley (E),Sahara Ave & Orchard Valley Dr,36.14451,-115.03712,,,,,,0
-6102,6102,Treeline Dr,Treeline Dr & Sahara Ave,36.144096,-115.033733,,,,,,0
+6101,6101,EB Sahara after Orchard Valley,Sahara Ave & Orchard Valley Dr,36.14451,-115.03712,,,,,,0
+6102,6102,SB Tree Line after Sahara,Treeline Dr & Sahara Ave,36.144096,-115.033733,,,,,,0
 6103,6103,EB Vegas Valley after Tree Line,Vegas Valley Dr & Treeline Dr,36.137102,-115.033027,,,,,,0
 6104,6104,NB Hollywood after Vegas Valley,Hollywood Blvd & Vegas Valley Dr,36.13819,-115.029005,,,,,,0
 6105,6105,NB Hollywood after Sunrise Highlnds,Hollywood Blvd & Sunrise Highlands Way,36.141327,-115.029037,,,,,,0
@@ -2760,13 +2764,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6126,6126,SB Rainbow after Post,Rainbow Blvd & Post Rd,36.073878,-115.242746,,,,,,0
 6127,6127,SB Rainbow before Badura,Rainbow Blvd & Badura Ave,36.061656,-115.242719,,,,,,0
 6128,6128,EB Oso Blanca after Durango,Oso Blanca Rd & Durango Dr,36.294968,-115.287186,,,,,,0
-6134,6134,NB Las Vegas before Foremaster,Las Vegas Blvd & Foremaster Ln,36.186073,-115.133952,,,,,,0
+6134,6134,NB Las Vegas before Foremaster,Las Vegas Blvd & Foremaster Ln,36.186735,-115.133939,,,,,,0
 6137,6137,EB Lake Mead after Simmons,,36.197324,-115.177741,,,,,,0
 6139,6139,SB Rainbow after Arby,Rainbow Blvd & Arby Ave,36.05885,-115.242949,,,,,,0
 6140,6140,EB Cheyenne after Marion,Cheyenne Ave & Marion Dr,36.217672,-115.070137,,,,,,0
 6141,6141,NB Lamb after Harris,Lamb Blvd & Harris Ave,36.177843,-115.080273,,,,,,0
 6142,6142,NB 4th after Carson,,36.16879,-115.142287,,,,,,0
-6143,6143,Bonneville Transit Center,,36.164459,-115.148675,,,,,,0
 6144,6144,Westcliff Transit Center,,36.17317,-115.278487,,,,,,0
 6145,6145,SB Durango after Westcliff,Durango Dr & Westcliff Dr,36.173179,-115.278138,,,,,,0
 6148,6148,NB Durango after Charleston,Durango Dr & Charleston Blvd,36.159545,-115.280189,,,,,,0
@@ -2817,12 +2820,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6216,6216,Bonneville Transit Center Bay 4,BTC Bay #4,36.164204,-115.149123,,,,,,0
 6218,6218,Bonneville Transit Center Bay 6,BTC Bay #6,36.164404,-115.148755,,,,,,0
 6220,6220,Bonneville Transit Center Bay 8,BTC Bay #8,36.164811,-115.148503,,,,,,0
+6221,6221,Bonneville Transit Center Bay 9,BTC Bay #9,36.164679,-115.148489,,,,,,0
 6222,6222,Bonneville Transit Center Bay 10,BTC Bay #10,36.164531,-115.148589,,,,,,0
-6223,6223,Bonneville Transit Center Bay 11,BTC Bay #11,36.164303,-115.148742,,,,,,0
 6224,6224,Bonneville Transit Center Bay 12,BTC Bay #12,36.164124,-115.148861,,,,,,0
 6226,6226,Bonneville Transit Center Bay 14,BTC Bay #14,36.164295,-115.148513,,,,,,0
 6228,6228,Bonneville Transit Center Bay 16,BTC Bay #16,36.16473,-115.148218,,,,,,0
-6230,6230,NB Pacific after Van Wagenen,Pacific Ave & Van Wagenen,36.029033,-114.987462,,,,,,0
 6231,6231,NB Rancho before Alexander,Rancho Dr & Alexander Rd,36.23034,-115.223929,,,,,,0
 6232,6232,SB Rancho after Jones,Rancho Dr & Jones Blvd,36.230368,-115.224367,,,,,,0
 6238,6238,NB Las Vegas after Warm Springs,Las Vegas Blvd & Warm Springs Rd,36.057747,-115.17218,,,,,,0
@@ -2843,9 +2845,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6259,6259,NB Boulder after Racetrack,Boulder Hwy & Racetrack Rd,36.014813,-114.953802,,,,,,0
 6261,6261,NB Bouldr at VA SE Prim Care Clinic,Boulder Hwy & Veterans Center,36.017188,-114.956486,,,,,,0
 6262,6262,SB Water after Atlantic,Water St & Atlantic Ave,36.032232,-114.982646,,,,,,0
-6264,6264,NB Pacific after Horizon,Pacific Ave & Horizon Dr,36.013207,-114.987702,,,,,,0
-6265,6265,NB Pacific after Middleton,Pacific Ave & Middleton,36.019251,-114.987678,,,,,,0
-6266,6266,NB Pacific after Sherwood,Pacific Ave & Sherwood,36.024726,-114.987661,,,,,,0
 6267,6267,WB Lake Mead after Water,Lake Mead & Water St,36.036934,-114.988775,,,,,,0
 6268,6268,WB Lake Mead after Basic,Lake Mead & Basic Rd,36.036008,-114.996015,,,,,,0
 6271,6271,SB Gibson after Galleria,Gibson Rd & Galleria,36.070184,-115.028962,,,,,,0
@@ -2856,7 +2855,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6276,6276,EB Lake Mead after 5th,Lake Mead Blvd & 5th St,36.195743,-115.133412,,,,,,0
 6277,6277,EB Harris after Nellis,Harris & Nellis Blvd,36.177694,-115.061388,,,,,,0
 6282,6282,EB Stewart after 4th,Stewart Ave & 4th St,36.171786,-115.139844,,,,,,0
-6283,6283,SB Fremont after Atlantic,Fremont St & Lowes,36.155875,-115.113259,,,,,,0
+6283,6283,SB Fremont after Atlantic,Fremont St & Lowes,36.154994,-115.112274,,,,,,0
 6284,6284,SB Boulder before Desert Inn,Boulder Hwy & 4040 Boulder Hwy,36.132462,-115.086861,,,,,,0
 6285,6285,SB Boulder before Twain,Boulder Hwy & 4530 Boulder Hwy,36.124882,-115.07832,,,,,,0
 6286,6286,SB Boulder before Missouri,Boulder Hwy & South Bend St,36.096932,-115.046871,,,,,,0
@@ -2903,7 +2902,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6354,6354,NB Losee after Washburn,Losee Rd & Washburn Rd,36.254868,-115.116854,,,,,,0
 6355,6355,EB Ann after Losee,Ann Rd & Losee Rd,36.263042,-115.116227,,,,,,0
 6356,6356,EB Tropical after Statz,Tropical Pkwy & Statz St,36.268884,-115.10714,,,,,,0
-6357,6357,NB Pecos after Tropical,Pecos Rd & Tropical Pkwy,36.269725,-115.098564,,,,,,0
 6358,6358,NLV VA Medical Ctr On Property Stop,VA Hospital,36.28587,-115.093497,,,,,,0
 6359,6359,WB Centennial after Statz,Centennial Pkwy & Statz St,36.276577,-115.108815,,,,,,0
 6360,6360,SB Losee after Centennial,Losee Rd & Centennial Pkwy,36.275729,-115.117154,,,,,,0
@@ -2913,6 +2911,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6364,6364,SB Nellis before Mohave,Nellis Blvd & Mohave Ave,36.154095,-115.063988,,,,,,0
 6366,6366,NB Durango after Boseck,Durango Dr & Boseck Dr,36.163298,-115.277839,,,,,,0
 6367,6367,WB Alta after Durango,Alta Dr & Durango Dr,36.166428,-115.278655,,,,,,0
+6370,6370,WB Silverado Ranch after LV Blvd,Silverado Ranch Blvd & Las Vegas Blvd,36.013833,-115.173084,,,,,,0
 6371,6371,SB Gilespie after Sunset,Gilespie St & Sunset Rd,36.070695,-115.163575,,,,,,0
 6372,6372,EB Centennial Ctr after Gr Montcito,Centennial Center Blvd & 6551 Centennial Center Blvd,36.276965,-115.27376,,,,,,0
 6373,6373,SB Valley View before Village at VV,Valley View & Village at Valley View Apts.,36.156924,-115.191764,,,,,,0
@@ -2923,11 +2922,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6379,6379,WB Gowan after Berg,,36.225126,-115.113628,,,,,,0
 6380,6380,UNLV Transit Center,,36.10403,-115.138594,,,,,,0
 6383,6383,WB Sunset after Ward,,36.067425,-115.00755,,,,,,0
-6385,6385,WB Galleria before Marks,,36.0716,-115.039677,,,,,,0
 6386,6386,NB Stephanie after American Pacific,,36.042365,-115.046497,,,,,,0
 6387,6387,EB Paradise Hills before Dawson,Paradise Hills Dr & Dawson Ave,35.986091,-114.928734,,,,,,0
 6390,6390,WB Conestoga before Nevada State,Conestoga Way & Nevada State Dr,35.993667,-114.934043,,,,,,0
-6391,6391,SB Stephanie at 699 N. Stephanie,Stephanie St & 699 Stephanie St,36.06578,-115.046284,,,,,,0
 6392,6392,EB Azure before Tenaya,Azure Dr & Tenaya Way,36.273682,-115.255483,,,,,,0
 6393,6393,WB Clark after Maryland,Clark Ave & Maryland Pkwy,36.161382,-115.136163,,,,,,0
 6394,6394,WB Clark after 9th,Clark Ave & 9th St,36.162885,-115.139675,,,,,,0
@@ -2937,17 +2934,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6398,6398,SB Valley View after Sahara,Valley View Blvd & Sahara Ave,36.143904,-115.190946,,,,,,0
 6399,6399,SB Camino Al Norte before Lone Mtn,Camino Al Norte & Lone Mountain Rd,36.247559,-115.154194,,,,,,0
 6401,6401,WB Badura after Lindell,Badura Ave & Edmond Rd,36.064135,-115.217117,,,,,,0
+6402,6402,NB Jones after Badura,Jones Blvd & Badura Ave,36.062715,-115.224516,,,,,,0
 6405,6405,WB Warm Springs after Tenaya,Warm Springs Rd & Tenaya Way,36.055806,-115.25277,,,,,,0
 6406,6406,WB Warm Springs after Buffalo,Warm Springs Rd & Buffalo Dr,36.055758,-115.262521,,,,,,0
 6407,6407,WB Warm Springs after Cimarron,Warm Springs Rd & Cimarron Rd,36.055689,-115.270876,,,,,,0
 6408,6408,WB Warm Springs after Gagnier,Warm Springs Rd & Gagnier Blvd,36.055649,-115.275685,,,,,,0
-6409,6409,WB Warm Springs after Durango,Warm Springs Rd & Durango Dr,36.055687,-115.279825,,,,,,0
-6410,6410,WB Warm Springs after Liberty Bell,Warm Springs Rd & Liberty Bell St,36.055606,-115.284221,,,,,,0
-6411,6411,WB Warm Springs after El Capitan,Warm Springs Rd & El Capitan Way,36.055569,-115.288619,,,,,,0
-6412,6412,WB Warm Springs before Quarterhorse,Warm Springs Rd & Quarterhorse Ln,36.055629,-115.29256,,,,,,0
 6413,6413,NB Fort Apache after Warm Springs,Warm Springs Rd & Plushtone St,36.056087,-115.29728,,,,,,0
 6414,6414,NB Fort Apache before Arby,Fort  Apache Rd & Arby Ave,36.058908,-115.29737,,,,,,0
-6415,6415,NB Fort Apache before Maule,Fort  Apache Rd & Maule Ave,36.062344,-115.297464,,,,,,0
+6415,6415,NB Fort Apache after Maule,Fort  Apache Rd & Maule Ave,36.063503,-115.297441,,,,,,0
 6416,6416,NB Fort Apache after Martin,Fort  Apache Rd & Martin Ave,36.067054,-115.297587,,,,,,0
 6417,6417,NB Fort Apache after Sunset,Fort  Apache Rd & Sunset Rd,36.070876,-115.297602,,,,,,0
 6418,6418,NB Fort Apache before Post,Fort  Apache Rd & Post Rd,36.073698,-115.297595,,,,,,0
@@ -2997,8 +2991,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6463,6463,SB Fort Apache before Sunset,Fort  Apache Rd & Sunset Rd,36.071962,-115.297912,,,,,,0
 6464,6464,SB Fort Apache after Maule,Fort  Apache Rd & Maule Ave,36.062204,-115.297794,,,,,,0
 6465,6465,SB Fort Apache after Arby,Fort  Apache Rd & Arby Ave,36.058879,-115.297653,,,,,,0
-6468,6468,EB Warm Springs before El Capitan,Warm Springs Rd & El Capitan Way,36.055338,-115.288429,,,,,,0
-6470,6470,EB Warm Springs after Liberty Bell,Warm Springs Rd & Liberty Bell St,36.055393,-115.283312,,,,,,0
 6471,6471,EB Warm Springs after Durango,Warm Springs Rd & Durango Dr,36.055382,-115.278415,,,,,,0
 6472,6472,EB Warm Springs before Cimarron,Warm Springs Rd & Cimarron Rd,36.055427,-115.27172,,,,,,0
 6473,6473,EB Warm Springs after Buffalo,Warm Springs Rd & Buffalo Dr,36.055487,-115.260395,,,,,,0
@@ -3016,7 +3008,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6490,6490,WB Charleston before Valley View,,36.15915,-115.192104,,,,,,0
 6491,6491,NB Nellis before Boulder,Nellis Blvd & Boulder Hwy,36.112051,-115.064441,,,,,,0
 6492,6492,EB Craig after Berg,Craig Rd & Berg St,36.239925,-115.111393,,,,,,0
-6493,6493,NB Pecos after Harris,Pecos Rd & Harris Ave,36.177593,-115.098132,,,,,,0
+6493,6493,NB Pecos after Harris,Pecos Rd & Harris Ave,36.177559,-115.09811,,,,,,0
 6494,6494,SB Pecos after Harris,Pecos Rd & Freedom Park,36.17686,-115.098401,,,,,,0
 6496,6496,SB Pecos after Osage,Pecos Rd & Osage Ave,36.183488,-115.098434,,,,,,0
 6497,6497,NB Lamb after Monroe,Lamb Blvd & Monroe Ave,36.185073,-115.079975,,,,,,0
@@ -3036,12 +3028,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6513,6513,NB Pavilion Center after Sahara,Pavilion Center Dr & Sahara Ave,36.145105,-115.331538,,,,,,0
 6514,6514,NB Pavilion Center after Sage Park,Pavilion Center Dr & Sahara Ave,36.148744,-115.330563,,,,,,0
 6515,6515,SB Pavilion Center after Sage Park,Pavilion Center Dr & Sahara Ave,36.147759,-115.330956,,,,,,0
-6516,6516,WB Sunset after Ullom,Sunset Rd & Ullom Dr,36.071897,-115.205958,,,,,,0
 6517,6517,SB Fort Apache after Martin,Ft. Apache Rd & Martin Ave,36.066266,-115.297847,,,,,,0
 6518,6518,SB Simmons before Coran,Simmons St & Coran Ln,36.195969,-115.178924,,,,,,0
 6519,6519,SB Simmons before Holly,Simmons St & Holly Ave,36.192347,-115.178942,,,,,,0
 6520,6520,NB Decatur after Tropical,Decatur Blvd & Tropical Pkwy,36.269986,-115.20662,,,,,,0
-6521,6521,SB Main after Ogden,Main St & Ogden Ave,36.172161,-115.146168,,,,,,0
+6521,6521,SB Main after Ogden,Main St & Ogden Ave,36.171951,-115.146325,,,,,,0
 6523,6523,NB Main after Fremont,Main St & Fremont St,36.171966,-115.146044,,,,,,0
 6524,6524,NB Simmons after Cheyenne,Simmons St & Cheyenne Ave,36.218052,-115.179328,,,,,,0
 6525,6525,NB Simmons after Gowan,Simmons St & Gowan Rd,36.225188,-115.179689,,,,,,0
@@ -3067,7 +3058,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6549,6549,WB Alta before Rampart,Alta Dr & Rampart Blvd,36.1665,-115.287146,,,,,,0
 6550,6550,NB Rampart before Alta,Rampart Blvd & Alta Dr,36.16638,-115.28822,,,,,,0
 6551,6551,RTC Mobility Training Ctr at SMF,SMF & Transit Mobility Center,36.070344,-115.210341,,,,,,0
-
+6552,6552,SSTT Exit,,36.06841,-115.16557,,,,,,0
 6553,6553,NB Losee after Plumeria,Losee Rd & Pedestrian Bridge,36.249912,-115.116805,,,,,,0
 6554,6554,NB Losee after Shadow Creek,Losee Rd & Shadow Creek Dr,36.258203,-115.116888,,,,,,0
 6555,6555,NB Ann after Kelfad,Ann Rd & Kelfad Pl,36.265613,-115.113513,,,,,,0
@@ -3107,7 +3098,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6589,6589,NB Grand Canyon after Ziegler,Grand Canyon Dr & Bonanza Creek Ave,36.067208,-115.306816,,,,,,0
 6591,6591,EB Sunset after Grand Canyon,Sunset Rd & Grand Canyon Dr,36.069991,-115.30644,,,,,,0
 6592,6592,EB Sunset after Fort Bend,Sunset Rd & Fort Bend St,36.070039,-115.302361,,,,,,0
-6593,6593,EB Sunset after Quarterhorse,Sunset Rd & Quarterhorse Ln,36.070127,-115.292417,,,,,,0
+6593,6593,EB Sunset after Quarterhorse,Sunset Rd & Quarterhorse Ln,36.070117,-115.292184,,,,,,0
 6594,6594,EB Sunset after Riley,Sunset Rd & Riley St,36.070189,-115.282439,,,,,,0
 6595,6595,NB Tenaya after Warm Springs,Tenaya Way & Warm Springs Rd,36.056451,-115.251883,,,,,,0
 6596,6596,NB Tenaya before Badura,Tenaya Way & Badura Ave,36.060778,-115.252168,,,,,,0
@@ -3132,7 +3123,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6617,6617,SB Durango after Post,Durango Dr & Post Rd,36.073472,-115.279589,,,,,,0
 6618,6618,SB Durango after Maule,Durango Dr & Arby Ave,36.060274,-115.279406,,,,,,0
 6619,6619,NB Durango after Patrick,Durango Dr & Patrick Ln,36.07917,-115.279149,,,,,,0
-6620,6620,NB Durango before Oquendo,Durango Dr & Oquendo Rd,36.081194,-115.279159,,,,,,0
+6620,6620,NB Durango before Oquendo,Durango Dr & Oquendo Rd,36.081833,-115.279125,,,,,,0
 6621,6621,NB Durango after Russell,Durango Dr & Russell Rd,36.085883,-115.279059,,,,,,0
 6622,6622,NB Durango before Hacienda,Durango Dr & Spanish Ridge Ave,36.089656,-115.279105,,,,,,0
 6623,6623,NB Durango after Hacienda,Durango Dr & Hacienda Ave,36.093039,-115.279105,,,,,,0
@@ -3143,8 +3134,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6630,6630,EB Vegas before Cielo Vista,Vegas Dr & Cielo Vista Ave,36.18855,-115.281904,,,,,,0
 6631,6631,SB Losee after Azure,Losee Rd & Azure Ave,36.272273,-115.117132,,,,,,0
 6632,6632,SB Losee before Winder,Losee Rd & Winder Ave,36.257993,-115.117152,,,,,,0
-6633,6633,EB Warm Springs after Fort Apache,Warm Springs Rd & Fort  Apache Rd,36.055462,-115.296655,,,,,,0
-6634,6634,EB Warm Springs after Quarterhorse,Warm Springs Rd & Quarterhorse Ln,36.055389,-115.292067,,,,,,0
 6635,6635,EB Lake Mead after Rampart,Lake Mead Blvd & Rampart Blvd,36.198999,-115.281372,,,,,,0
 6636,6636,NB Losee after Lone Mountain,Losee Rd & Lone Mountain Rd,36.247569,-115.116745,,,,,,0
 6637,6637,SB College before Pearl Island,College Dr & Pearl Island Dr,36.018843,-114.963395,,,,,,0
@@ -3162,26 +3151,18 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6652,6652,SB Maryland after Wigwam,Rainbow Rd & Wigwam Ave,36.034785,-115.136333,,,,,,0
 6653,6653,EB Horizon Ridge after Eastern,Horizon Ridge Pkwy & Eastern Ave,36.000115,-115.103377,,,,,,0
 6654,6654,SB Green Valley after Paseo Verde,Green Valley Pkwy & Paseo Verde Pkwy,36.01998,-115.083518,,,,,,0
-6655,6655,WB Horizon Ridge after Green Valley,Horizon Ridge Pkwy & Green Valley Pkwy,36.005949,-115.08372,,,,,,0
-6656,6656,WB St Rose after Spencer,St Rose Pkwy & Spencer St,35.998467,-115.126889,,,,,,0
 6657,6657,NB Maryland after Silverado Ranch,Maryland Pkwy & Silverado Ranch Blvd,36.013705,-115.136555,,,,,,0
-6658,6658,NB Maryland after Wigwam,Maryland Pkwy & Wigwam Ave,36.035953,-115.13602,,,,,,0
+6658,6658,NB Maryland after Wigwam,Maryland Pkwy & Wigwam Ave,36.035846,-115.135998,,,,,,0
 6659,6659,NB Paradise before Warm Springs,Paradise Rd & Warm Springs Rd,36.056422,-115.14074,,,,,,0
 6660,6660,NB Gibson after Sunset,Gibson Rd & Sunset Rd,36.064251,-115.02703,,,,,,0
 6661,6661,EB Galleria before Boulder,Galleria Dr & Boulder Hwy,36.070887,-115.018367,,,,,,0
-6662,6662,EB Russell after Durango,Russell Rd & Durango Dr,36.085092,-115.278072,,,,,,0
+6662,6662,EB Russell after Durango,Russell Rd & Durango Dr,36.085064,-115.27858,,,,,,0
 6663,6663,WB Russell before Durango,Russell Rd & Durango Dr,36.085323,-115.278229,,,,,,0
 6664,6664,EB Horizon Ridge after Seven Hills,Horizon Ridge Pkwy & Seven Hills Dr,35.997038,-115.123013,,,,,,0
 6665,6665,SB Rainbow after Warm Springs,Rainbow Blvd & Warm Springs Rd,36.055211,-115.243271,,,,,,0
 6666,6666,SB Rainbow after Eldorado,Rainbow Blvd & El Dorado Ln,36.051343,-115.243332,,,,,,0
-6667,6667,EB Robindale after Rainbow,,36.048468,-115.242518,,,,,,0
-6668,6668,EB Robindale after Silver Strand,Robindale Rd & Silver Strand St,36.048679,-115.237461,,,,,,0
-6669,6669,EB Robindale after Torrey Pines,Robindale Rd & Torrey Pines Dr,36.048834,-115.23383,,,,,,0
-6670,6670,EB Robindale after Mermaid Lagoon,Robindale Rd & Mermaid Lagoon St,36.049029,-115.229016,,,,,,0
 6671,6671,SB Jones after Robindale,Jones Blvd & Robindale Rd,36.048733,-115.225493,,,,,,0
 6672,6672,SB Jones before Mineral Mound,Jones St & Mineral Mound Ave,36.045259,-115.225672,,,,,,0
-6673,6673,WB Windmill after Torrey Pines,Windmill Ln & Torrey Pines Dr,36.041774,-115.235025,,,,,,0
-6674,6674,WB Windmill after Tollbooth,Windmill Ln & Tollbooth St,36.041541,-115.239789,,,,,,0
 6675,6675,NB Rainbow after Mesa Verde,Rainbow Rd & Mesa Verde Ln,36.045351,-115.243139,,,,,,0
 6677,6677,EB Desert Inn before Navajo Willow,Desert Inn Rd & Navajo Willow Ln,36.129701,-115.320676,,,,,,0
 6680,6680,WB Russell after Warbonnet,Russell Rd & Warbonnet Way,36.08511,-115.265784,,,,,,0
@@ -3194,8 +3175,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6688,6688,OCallaghan Fed Hosp at Range Rd,Range Rd & O Callaghan Hosp.,36.246928,-115.044202,,,,,,0
 6689,6689,EB Tropicana before Fort Apache,Tropicana Ave & Fort Apache Rd,36.099902,-115.299776,,,,,,0
 6690,6690,WB Russell after Fort Apache,Russell Rd & Fort Apache Rd,36.085273,-115.298264,,,,,,0
-6692,6692,WB Galleria after Boulder,Galleria Dr & Boulder Hwy,36.071111,-115.018997,,,,,,0
-6693,6693,SB Maryland before St Rose,Maryland Pkwy & St. Rose Pkwy,35.99257,-115.13803,,,,,,0
+6692,6692,WB Galleria after Boulder,Galleria Dr & Boulder Hwy,36.071137,-115.018672,,,,,,0
 6694,6694,NB Maryland after St Rose,Maryland Pkwy & St. Rose Pkwy,35.992048,-115.137117,,,,,,0
 6695,6695,SB Pilot after Caballo,Pilot Rd & 751 Pilot Rd,36.063412,-115.146319,,,,,,0
 6696,6696,SB Paradise after Pilot,Paradise Rd & Pilot Rd,36.065911,-115.141283,,,,,,0
@@ -3219,20 +3199,17 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6714,6714,EB Horizon Ridge after Narissa,Horizon Ridge Pkwy & Narissa Ave,36.004521,-115.099328,,,,,,0
 6715,6715,NB Carnegie after Horizon Ridge,Carnegie St & Horizon Ridge Pkwy,36.006376,-115.095514,,,,,,0
 6716,6716,SB Green Valley after Wingbrook,Green Valley Pkwy & Wingbrook Ave,36.014215,-115.083197,,,,,,0
-6717,6717,WB Horizon Ridge after Annet,Horizon Ridge Pkwy & Annett St,36.006022,-115.090326,,,,,,0
 6718,6718,WB Horizon Ridge after Carnegie,Horizon Ridge Pkwy & Carnegie St,36.006126,-115.096795,,,,,,0
 6719,6719,WB Horizon Ridge before Sandy Ridge,Horizon Ridge Pkwy & Coffee Bean Pl,36.004168,-115.100054,,,,,,0
 6720,6720,WB Horizon Ridge before Eastern,Horizon Ridge Pkwy & Sandy Ridge Ave,36.001404,-115.102311,,,,,,0
-6721,6721,WB Windmill after Jones,Windmill Ln & Jones Blvd,36.042244,-115.226499,,,,,,0
-6722,6722,WB Windmill after El Camino,Windmill Ln & El Camino Rd,36.041986,-115.230701,,,,,,0
 6723,6723,NB Gibson after Caption,Gibson Rd & Caption Way,36.067757,-115.028615,,,,,,0
 6724,6724,NB Gibson before Galleria,Galleria Dr & Gibson Rd,36.070552,-115.028606,,,,,,0
 6725,6725,EB Galleria after Eastgate,Galleria Dr & Eastgate Rd,36.070838,-115.021329,,,,,,0
-6726,6726,SB Pabco after Galleria,Pabco Rd & Galleria Dr,36.070768,-114.99387,,,,,,0
+6726,6726,SB Pabco after Galleria,Pabco Rd & Galleria Dr,36.071081,-114.99499,,,,,,0
 6727,6727,WB Sunset after Pabco,Sunset Rd & Pabco Rd,36.067579,-114.994478,,,,,,0
-6728,6728,WB Horizon Ridge after Coronado Ctr,Horizon Ridge Pkwy & Coronado Center Dr,35.998971,-115.111205,,,,,,0
-6729,6729,WB Horizon Ridge before Jeffreys,Horizon Ridge Pkwy & Jefferys St,35.999009,-115.118551,,,,,,0
-6730,6730,WB Horizon Ridge before Seven Hills,Horizon Ridge Pkwy & Seven Hills Dr,35.99739,-115.122997,,,,,,0
+6728,6728,WB Horizon Ridge after Coronado Ctr,Horizon Ridge Pkwy & Coronado Center Dr,35.998976,-115.110898,,,,,,0
+6729,6729,WB Horizon Ridge before Jeffreys,Horizon Ridge Pkwy & Jefferys St,35.998995,-115.119478,,,,,,0
+6730,6730,WB Horizon Ridge before Seven Hills,Horizon Ridge Pkwy & Seven Hills Dr,35.997433,-115.12426,,,,,,0
 6731,6731,NB Maryland after Levi,Maryland Pkwy & Levi Ave,35.995913,-115.138081,,,,,,0
 6732,6732,NB Maryland after Cactus,Maryland Pkwy & Cactus Ave,35.999496,-115.136762,,,,,,0
 6733,6733,NB Maryland after Red Cherry,Maryland Pkwy & Red Cherry Ave,36.003615,-115.136808,,,,,,0
@@ -3261,7 +3238,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6756,6756,NB Grand Canyon after Ocotillo Flls,Grand Canyon Dr & Ocotillo Falls Ave,36.093442,-115.306368,,,,,,0
 6757,6757,NB Grand Canyon after Reno,Grand Canyon Dr & Reno Ave,36.096725,-115.306303,,,,,,0
 6758,6758,EB Tropicana after Grand Canyon,Tropicana Ave & Grand Canyon Dr,36.099949,-115.30567,,,,,,0
-6760,6760,EB Sunset before Sunset,Sunset Rd & Sunset Rd,36.070915,-115.071691,,,,,,0
+6760,6760,EB Sunset before Sunset,Sunset Rd & Sunset Rd,36.070796,-115.072556,,,,,,0
 6761,6761,EB Galleria after Burns,Galleria Dr & Burns Ave,36.070886,-115.011271,,,,,,0
 6762,6762,EB Galleria after Moser,Galleria Dr & Moser Dr,36.070884,-114.999546,,,,,,0
 6763,6763,WB Sunset before Haren,Sunset Rd & Haren Dr,36.067566,-114.997981,,,,,,0
@@ -3275,13 +3252,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6771,6771,WB Newport before Albacate,Newport Dr & Albacate St,36.027301,-114.951479,,,,,,0
 6772,6772,SB Pueblo after Newport,Pueblo Blvd & Newport Dr,36.026704,-114.959213,,,,,,0
 6773,6773,WB Galleria before Middlegate,Galleria Dr & Middlegate Rd,36.071119,-115.022947,,,,,,0
-6774,6774,NB Water after Basic,,36.030996,-114.981186,,,,,,0
 6775,6775,NB Pecos before Craig,,36.23931,-115.097131,,,,,,0
 6776,6776,NB 5th after Rome,,36.280362,-115.134784,,,,,,0
 6777,6777,WB Centennial after Commerce,,36.276644,-115.144982,,,,,,0
 6778,6778,WB Carson before Las Vegas,,36.168016,-115.141041,,,,,,0
 6784,6784,EB Ann after Goldfield,,36.261348,-115.139034,,,,,,0
-6786,6786,NB N. 5th after El Campo Grande,,36.265436,-115.134668,,,,,,0
+6785,6785,EB Ann before N 5th,Ann & N. 5th,36.26122,-115.135265,,,,,,0
 6787,6787,NB N. 5th after Tropical,,36.269773,-115.134693,,,,,,0
 6788,6788,NB N. 5th after Azure,,36.274031,-115.134751,,,,,,0
 6790,6790,EB Deer Springs after N. 5th,,36.28355,-115.134044,,,,,,0
@@ -3312,12 +3288,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6819,6819,SB Boulder before Horizon,Boulder & College,36.016941,-114.956944,,,,,,0
 6820,6820,SB Green Valley after Alanhurst,,36.010604,-115.08327,,,,,,0
 6821,6821,EB Horizon after Pacific,,36.012408,-114.987366,,,,,,0
-6822,6822,NB Pacific before Panama,,36.032393,-114.986258,,,,,,0
 6823,6823,NB Center after Burkholder,,36.038744,-114.967108,,,,,,0
 6824,6824,EB Warm Springs after Woodside,,36.050082,-114.966229,,,,,,0
 6825,6825,NB Mohawk before Lake Mead,,36.062269,-114.961292,,,,,,0
-6827,6827,SB Pacific after Van Wagenen,,36.028333,-114.987797,,,,,,0
-6828,6828,SB Pacific after Country Club,,36.019526,-114.987888,,,,,,0
 6829,6829,EB Horizon before Jade,,36.012452,-114.975813,,,,,,0
 6830,6830,EB Horizon before Mosswood,,36.012477,-114.967725,,,,,,0
 6831,6831,NB Conestoga before 550 Conestoga,,35.991351,-114.930347,,,,,,0
@@ -3328,7 +3301,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6837,6837,WB Lake Mead after Taylor,,36.041138,-114.980258,,,,,,0
 6838,6838,EB Major after Coronado,,36.034959,-114.968183,,,,,,0
 6840,6840,WB Lake Mead after Boulder,,36.039211,-114.982859,,,,,,0
-6841,6841,EB Carson after 8th,,36.166188,-115.137253,,,,,,0
+6841,6841,EB Carson after 8th,,36.166125,-115.137099,,,,,,0
 6842,6842,NB 13th after Carson,,36.164543,-115.131944,,,,,,0
 6843,6843,WB Carson after 10th,Carson & 8th,36.16585,-115.136027,,,,,,0
 6844,6844,EB Pinto after Rose,,36.164274,-115.16737,,,,,,0
@@ -3341,23 +3314,400 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6851,6851,WB Craig after Goldfield,,36.239702,-115.139903,,,,,,0
 6852,6852,EB Craig after Goldfield,,36.239421,-115.138538,,,,,,0
 6854,6854,SB Pueblo before Apache,,36.060516,-114.958947,,,,,,0
-6855,6855,Valley View @ Hacienda (N),,36.094059,-115.189695,,,,,,0
-6856,6856,Valley View @ Reno (N),,36.097655,-115.189688,,,,,,0
-6857,6857,Valley View @ Flamingo (N),,36.116169,-115.189875,,,,,,0
-6858,6858,Valley View @ Viking (N),,36.11951,-115.189974,,,,,,0
-6859,6859,Valley View @ Twain (S),,36.122293,-115.190303,,,,,,0
-6860,6860,Valley View @ Viking (S),,36.118661,-115.190305,,,,,,0
-6861,6861,Valley View @ Tropicana (S),,36.100476,-115.189981,,,,,,0
-6862,6862,Valley View @ Reno (S),,36.096524,-115.18999,,,,,,0
-6863,6863,Valley View @ Hacienda (S),,36.093097,-115.189992,,,,,,0
-6864,6864,Valley View @ Diablo (S),,36.089324,-115.190002,,,,,,0
-6865,6865,Valley View @ Tropicana (N),,36.101452,-115.189721,,,,,,0
-6866,6866,Valley View @ Flamingo (S),,36.114796,-115.190268,,,,,,0
-6867,6867,Grand Central @ LV Premium Outlets - North (N),,36.163697,-115.156495,,,,,,0
-6868,6868,Decatur @ Sunset (S),,36.070945,-115.208057,,,,,,0
-6869,6869,Valley View @ Harmon (S),,36.111361,-115.190129,,,,,,0
-6870,6870,Valley View @ Tompkins (S),,36.104025,-115.189982,,,,,,0
-6871,6871,Valley View @ Tompkins (N),,36.104905,-115.189745,,,,,,0
-6872,6872,Valley View @ Nevso (N),,36.112441,-115.189855,,,,,,0
-6873,6873,Sahara @ Rancho Del Vista (E),,36.144481,-115.041546,,,,,,0
-6874,6874,Sunset @ Decatur (W),,36.071856,-115.208599,,,,,,0
+6855,6855,NB Valley View after Hacienda,,36.094059,-115.189695,,,,,,0
+6856,6856,NB Valley View after Reno,,36.097655,-115.189688,,,,,,0
+6857,6857,NB Valley View after Flamingo,,36.116169,-115.189875,,,,,,0
+6858,6858,NB Valley View after Viking,,36.11951,-115.189974,,,,,,0
+6859,6859,SB Valley View after Twain,,36.122293,-115.190303,,,,,,0
+6860,6860,SB Valley View after Viking,,36.118661,-115.190305,,,,,,0
+6861,6861,SB Valley View after Tropicana,,36.100476,-115.189981,,,,,,0
+6862,6862,SB Valley View after Reno,,36.096524,-115.18999,,,,,,0
+6863,6863,SB Valley View after Hacienda,,36.093097,-115.189992,,,,,,0
+6864,6864,SB Valley View after Diablo,,36.089324,-115.190002,,,,,,0
+6865,6865,NB Valley View after Tropicana,,36.101452,-115.189721,,,,,,0
+6866,6866,SB Valley View after Flamingo,,36.114796,-115.190268,,,,,,0
+6867,6867,NB Grnd Central at LV Prem Outl-Nor,Grand Central & LV Premium Outlets - North,36.163697,-115.156495,,,,,,0
+6868,6868,SB Decatur after Sunset,,36.070945,-115.208057,,,,,,0
+6869,6869,SB Valley View before Harmon,,36.111361,-115.190129,,,,,,0
+6870,6870,SB Valley View after Tompkins,,36.104025,-115.189982,,,,,,0
+6871,6871,NB Valley View after Tompkins,,36.104905,-115.189745,,,,,,0
+6872,6872,NB Valley View before Nevso,,36.112441,-115.189855,,,,,,0
+6873,6873,EB Sahara after Rancho Del Vista,,36.144481,-115.041546,,,,,,0
+6874,6874,WB Sunset after Decatur,,36.071856,-115.208599,,,,,,0
+6875,6875,SB Rainbow after Robindale,,36.047666,-115.243427,,,,,,0
+6876,6876,SB Rainbow be before Windmill,,36.042227,-115.243567,,,,,,0
+6877,6877,SB Rainbow before Shelbourne,,36.038013,-115.24363,,,,,,0
+6878,6878,EB Wigwam after Rainbow,,36.033901,-115.242926,,,,,,0
+6879,6879,SB Torrey Pines after Wigwam,,36.033995,-115.23468,,,,,,0
+6880,6880,SB Torrey Pines after Pebble,,36.026175,-115.234686,,,,,,0
+6881,6881,SB Jones after Tropicana,,36.099175,-115.225196,,,,,,0
+6882,6882,SB Jones after Hacienda,,36.091972,-115.225228,,,,,,0
+6883,6883,Sb Jones before Dewey,,36.088653,-115.225356,,,,,,0
+6884,6884,SB Jones after Russell,,36.08466,-115.225473,,,,,,0
+6885,6885,SB Jones after Post,,36.074124,-115.224679,,,,,,0
+6886,6886,SB Jones after Sunset,,36.069849,-115.224557,,,,,,0
+6887,6887,SB Jones after Maule,,36.063419,-115.224836,,,,,,0
+6888,6888,SB Jones after Windmill,,36.041424,-115.225889,,,,,,0
+6889,6889,SB Jones after Shelbourne,,36.038185,-115.225838,,,,,,0
+6890,6890,WB Wigwam after Kettledrum,Wigwam & Jones,36.034964,-115.226899,,,,,,0
+6891,6891,WB Wigwam after Langhorne Creek,,36.034748,-115.230951,,,,,,0
+6892,6892,NB Torrey Pines after Grand Mayne,,36.035273,-115.234444,,,,,,0
+6893,6893,NB Torrey Pines after Shelbourne,,36.038448,-115.234441,,,,,,0
+6894,6894,EB Windmill after Torrey Pines,,36.041561,-115.233803,,,,,,0
+6895,6895,EB Windmill after Windsor Oaks,,36.041803,-115.229474,,,,,,0
+6896,6896,NB Jones after Windmill,,36.043165,-115.225426,,,,,,0
+6897,6897,NB Jones after Carlisle Crest,,36.046349,-115.225311,,,,,,0
+6898,6898,NB Jones after Robindale,,36.049939,-115.225088,,,,,,0
+6899,6899,NB Jones after Eldorado,,36.053189,-115.22496,,,,,,0
+6900,6900,NB Jones after Sunset,,36.07156,-115.224153,,,,,,0
+6901,6901,NB Jones after Patrick,,36.078716,-115.2247,,,,,,0
+6902,6902,NB Jones before Conroe,Jones & Russell,36.086355,-115.225103,,,,,,0
+6903,6903,NB Jones before Spring Ranch,,36.089271,-115.225026,,,,,,0
+6904,6904,NB Decatur before Apulia,,36.281356,-115.206354,,,,,,0
+6905,6905,NB Decatur after Deer Springs,,36.28445,-115.20636,,,,,,0
+6906,6906,NB Decatur after Dorrell,,36.28789,-115.206437,,,,,,0
+6907,6907,NB Decatur after Elkhorn,,36.291985,-115.206465,,,,,,0
+6908,6908,NB Decatur before Farm,,36.295655,-115.206607,,,,,,0
+6909,6909,NB Decatur after Farm,,36.299355,-115.206695,,,,,,0
+6910,6910,NB Decatur after Whispering Sands,,36.302641,-115.20683,,,,,,0
+6911,6911,WB Grand Teton after Decatur,,36.306257,-115.208016,,,,,,0
+6912,6912,WB Grand Teton after Thom,,36.30585,-115.212761,,,,,,0
+6913,6913,WB Grand Teton before Squaw Gulch,,36.305505,-115.21787,,,,,,0
+6914,6914,SB Jones after Grand Teton,,36.303878,-115.224176,,,,,,0
+6915,6915,SB Jones after Farm,,36.297036,-115.224305,,,,,,0
+6916,6916,SB Jones after Elkhorn,,36.289805,-115.224492,,,,,,0
+6917,6917,SB Jones after Dorrell,,36.28598,-115.224508,,,,,,0
+6918,6918,EB Deer Springs after Bradley,,36.283397,-115.214811,,,,,,0
+6919,6919,WB St Rose after Maryland,,35.991005,-115.137303,,,,,,0
+6920,6920,WB St Rose before Amigo,,35.988619,-115.140624,,,,,,0
+6921,6921,SB Raiders after St Rose,,35.981416,-115.148325,,,,,,0
+6922,6922,SB Raiders after Sunridge Heights,,35.978568,-115.145263,,,,,,0
+6923,6923,SB Raiders before Bruner,,35.970631,-115.14378,,,,,,0
+6924,6924,WB Bowes after Raiders,,35.966431,-115.144516,,,,,,0
+6925,6925,SB Chaparral after Bowes,,35.965865,-115.148108,,,,,,0
+6926,6926,SB Chaparral before Volunteer,,35.960432,-115.148108,,,,,,0
+6927,6927,WB Volunteer before Bermuda,,35.961736,-115.154279,,,,,,0
+6928,6928,WB Volunteer after Gilespie,,35.962831,-115.16397,,,,,,0
+6929,6929,NB Las Vegas Blvd after St Rose,,35.967579,-115.172634,,,,,,0
+6930,6930,EB Barbara after las Vegas Blvd,Barbara & Las Vegas,35.977221,-115.172092,,,,,,0
+6931,6931,EB Barbara after Haven,,35.97727,-115.16772,,,,,,0
+6932,6932,SB Gilespie after Barbara,,35.976887,-115.163779,,,,,,0
+6933,6933,SB Gilespie after Gilliflower,,35.973321,-115.163415,,,,,,0
+6936,6936,EB St Rose after Amigo,,35.988162,-115.140393,,,,,,0
+6937,6937,NB Las Vegas after Volunteer,,35.963467,-115.172615,,,,,,0
+6938,6938,EB Ann after Rainbow,,36.262903,-115.241214,,,,,,0
+6939,6939,EB Ann after Torrey Pines,,36.26187,-115.233141,,,,,,0
+6940,6940,EB Ann after Maverick,,36.261406,-115.229253,,,,,,0
+6941,6941,EB Ann after Jones,,36.260927,-115.224895,,,,,,0
+6942,6942,EB Anne after Rock Creek,,36.260933,-115.220307,,,,,,0
+6943,6943,EB Ann after Bradley,,36.260965,-115.21588,,,,,,0
+6944,6944,EB Ann before Decatur,,36.261315,-115.209853,,,,,,0
+6945,6945,EB Ann after Decatur,,36.261435,-115.206486,,,,,,0
+6946,6946,EB Ann before Valley,,36.261447,-115.202048,,,,,,0
+6947,6947,EB Ann after Valley,,36.261391,-115.197345,,,,,,0
+6948,6948,EB Ann before Allen,,36.261402,-115.193171,,,,,,0
+6949,6949,EB Ann after Allen,,36.26139,-115.188164,,,,,,0
+6950,6950,EB Ann after Ferrell,,36.261446,-115.183842,,,,,,0
+6951,6951,EB Ann before Roaring Surf,,36.261622,-115.165982,,,,,,0
+6952,6952,EB Ann before Emerald Basin,,36.261164,-115.160032,,,,,,0
+6953,6953,EB Ann after Donna,,36.261307,-115.129907,,,,,,0
+6954,6954,EB Ann after Bruce,,36.261316,-115.124961,,,,,,0
+6955,6955,EB Ann after Lawrence,,36.261742,-115.119106,,,,,,0
+6956,6956,EB Tropical before Pecos,,36.268953,-115.099785,,,,,,0
+6957,6957,EB Tropical before Walnut,,36.269061,-115.092635,,,,,,0
+6958,6958,EB Tropical after Walnut,,36.26905,-115.08861,,,,,,0
+6959,6959,EB Tropical before Lamb,,36.269127,-115.083392,,,,,,0
+6960,6960,SB Lamb after Tropical,,36.268399,-115.080135,,,,,,0
+6961,6961,SB Lamb before Nexus,,36.262322,-115.080135,,,,,,0
+6962,6962,NB Donovan before Tropical,,36.267935,-115.077191,,,,,,0
+6963,6963,EB Tropical before Puebla,,36.269267,-115.073325,,,,,,0
+6964,6964,EB Tropical after Puebla,,36.269261,-115.068893,,,,,,0
+6965,6965,EB Tropical before Range,,36.269529,-115.064134,,,,,,0
+6966,6966,NB Sloan before Tropical,,36.266411,-115.04311,,,,,,0
+6967,6967,EB Tropical after Sloan,,36.269611,-115.042314,,,,,,0
+6968,6968,EB Tropical after Mt Hood,,36.269261,-115.033426,,,,,,0
+6969,6969,NB Hollywood after Azure,,36.271628,-115.024943,,,,,,0
+6970,6970,WB Centennial after Hollywood,,36.276479,-115.026181,,,,,,0
+6971,6971,WB Centennial before Mt Hood,,36.276784,-115.032585,,,,,,0
+6972,6972,SB Mt Hood after Centennial,,36.275216,-115.034227,,,,,,0
+6973,6973,WB Tropical after Mt Hood,,36.269532,-115.034847,,,,,,0
+6974,6974,WB Tropical before Sloan,,36.269811,-115.041636,,,,,,0
+6975,6975,SB Sloan after Tropical,,36.268255,-115.043415,,,,,,0
+6976,6976,WB El Campo Grande after Nicco,,36.26606,-115.048286,,,,,,0
+6977,6977,NB Range after El Campo Grande,,36.266291,-115.057062,,,,,,0
+6978,6978,WB Tropical after Range,,36.269692,-115.064227,,,,,,0
+6979,6979,WB Tropical after Puebla,,36.269442,-115.068905,,,,,,0
+6980,6980,EB Nexus after Donovan,,36.262306,-115.082727,,,,,,0
+6981,6981,NB Lamb after Nexus,,36.262558,-115.079654,,,,,,0
+6982,6982,WB Tropical before Carrot,,36.269355,-115.086556,,,,,,0
+6983,6983,WB Tropical after Walnut,,36.269307,-115.09213,,,,,,0
+6984,6984,WB Tropical before Pecos,,36.269234,-115.096819,,,,,,0
+6985,6985,WB Tropical after Pecos,,36.269255,-115.09953,,,,,,0
+6986,6986,WB Tropical before Statz,,36.269156,-115.105136,,,,,,0
+6987,6987,WB Tropical after Statz,,36.269119,-115.108325,,,,,,0
+6988,6988,WB Ann after Tropical,,36.268061,-115.111769,,,,,,0
+6989,6989,WB Ann before Losee,,36.265069,-115.114149,,,,,,0
+6990,6990,WB Ann after Losee,,36.262482,-115.118118,,,,,,0
+6991,6991,WB Ann after Lawrence,,36.261618,-115.122276,,,,,,0
+6992,6992,WB Ann after Bruce,,36.261565,-115.128167,,,,,,0
+6993,6993,WB Ann after Goldfield,,36.261617,-115.140036,,,,,,0
+6994,6994,WB Ann before Farpoint,,36.261874,-115.162083,,,,,,0
+6995,6995,WB Ann after Whitestone,,36.261861,-115.167032,,,,,,0
+6996,6996,WB Ann after Simmons,,36.261767,-115.180779,,,,,,0
+6997,6997,WB Ann after Ferrell,,36.261671,-115.185409,,,,,,0
+6998,6998,WB Ann after Allen,,36.261666,-115.18962,,,,,,0
+6999,6999,WB Ann after Willis,,36.261647,-115.194252,,,,,,0
+7000,7000,WB Ann after Valley,,36.261707,-115.198905,,,,,,0
+7001,7001,WB Ann after San Mateo,,36.261691,-115.203117,,,,,,0
+7002,7002,WB Ann after Calverts,,36.261174,-115.222216,,,,,,0
+7003,7003,WB Ann before Torrey Pines,,36.262179,-115.233399,,,,,,0
+7004,7004,WB Ann before Lusitano,,36.262818,-115.238563,,,,,,0
+7005,7005,WB Blue Diamond after Torrey Pines,,36.023798,-115.236992,,,,,,0
+7006,7006,NB Rainbow after Blue Diamond,,36.024207,-115.243317,,,,,,0
+7007,7007,NB Rainbow after Torino,,36.028999,-115.243264,,,,,,0
+7008,7008,NB Rainbow before Wigwam,,36.033641,-115.243252,,,,,,0
+7009,7009,NB Rainbow after Shelbourne,,36.037972,-115.243232,,,,,,0
+7010,7010,SB Ft Apache before Warm Springs,Fort Apache & Warm Springs,36.056068,-115.297595,,,,,,0
+7011,7011,SB Ft Apache before Huntington Cove,Fort Apache & Huntington Cove,36.037275,-115.297294,,,,,,0
+7012,7012,SB Ft Apache after Wigwam,Fort Apache & Wigwam,36.033024,-115.297449,,,,,,0
+7013,7013,SB Ft Apache before Ford,Fort Apache & Ford,36.030331,-115.297585,,,,,,0
+7014,7014,NB Ft Apache after Presley Glen,Fort Apache & Presley Glen,36.030145,-115.297289,,,,,,0
+7019,7019,NB Ft Apache before Sherwood Greens,Fort Apache & Sherwood Greens,36.033762,-115.297115,,,,,,0
+7020,7020,NB Ft Apache after Sherwood Greens,Fort Apache & Sherwood Greens,36.03749,-115.296879,,,,,,0
+7021,7021,NB Ft Apache after Springwood Cove,Fort Apache & Springwood Cove,36.052658,-115.297283,,,,,,0
+7022,7022,SB Durango after Warm Springs,,36.055071,-115.279324,,,,,,0
+7023,7023,SB Durango after Rhodes Ranch,,36.047055,-115.279257,,,,,,0
+7024,7024,SB Durango before Windmill,,36.041222,-115.27913,,,,,,0
+7025,7025,SB Durango before Shelbourne,,36.036724,-115.279081,,,,,,0
+7026,7026,SB Durango after Wigwam,,36.032856,-115.279063,,,,,,0
+7027,7027,SB Durango before Ford,,36.030104,-115.278918,,,,,,0
+7028,7028,SB Durango after Pebble,,36.025403,-115.278986,,,,,,0
+7029,7029,NB Durango after Blue Diamond,,36.021064,-115.278942,,,,,,0
+7030,7030,NB Durango before Pebble,,36.025672,-115.278551,,,,,,0
+7031,7031,SB Durango after Agate,,36.021808,-115.27924,,,,,,0
+7033,7033,NB Durango before Ford,,36.029365,-115.278638,,,,,,0
+7034,7034,NB Durango before Mistral,,36.037742,-115.278756,,,,,,0
+7035,7035,NB Durango after Windmill,,36.041332,-115.278789,,,,,,0
+7036,7036,NB Durango after Robindale,,36.048499,-115.278908,,,,,,0
+7037,7037,NB Durango before Warm Springs,,36.0529,-115.278989,,,,,,0
+7038,7038,SB Las Vegas before Jo Rae,,36.008585,-115.172674,,,,,,0
+7039,7039,NB Las Vegas after Cactus,,35.999882,-115.172295,,,,,,0
+7040,7040,NB Las Vegas after Le Baron,,36.010805,-115.17224,,,,,,0
+7041,7041,WB Cactus before Dean Martin,,35.999188,-115.183191,,,,,,0
+7042,7042,WB Cactus before Valley View,,35.999037,-115.188506,,,,,,0
+7043,7043,WB Cactus after Arville,,35.998854,-115.199293,,,,,,0
+7044,7044,WB Cactus after Cameron,Cactus & Decatur,35.998799,-115.203889,,,,,,0
+7045,7045,WB Cactus after Decatur,,35.998809,-115.20837,,,,,,0
+7046,7046,WB Cactus after Edmond,,35.998795,-115.212813,,,,,,0
+7047,7047,WB Cactus after Lindell,,35.998809,-115.217259,,,,,,0
+7048,7048,WB Cactus after Bronco,,35.998805,-115.2283,,,,,,0
+7049,7049,WB Cactus after Mann,,35.998792,-115.232751,,,,,,0
+7050,7050,WB Cactus after Verona Wood,Cactus & Torrey Pines,35.998792,-115.236628,,,,,,0
+7051,7051,WB Cactus after Rainbow,,35.998772,-115.24446,,,,,,0
+7052,7052,WB Cactus before Rock Gear,,35.998655,-115.248678,,,,,,0
+7053,7053,WB Cactus after Tenaya,Cactus & Buffalo,35.998572,-115.253571,,,,,,0
+7054,7054,WB Cactus after Aspen Mountain,Cactus & Buffalo,35.998439,-115.258333,,,,,,0
+7055,7055,NB Buffalo after Cactus,,35.998954,-115.261608,,,,,,0
+7056,7056,NB Buffalo before Haleh,,36.002813,-115.261764,,,,,,0
+7057,7057,NB Buffalo after Mountains Edge,,36.005945,-115.261605,,,,,,0
+7058,7058,NB Buffalo after Canyon Estates,,36.009277,-115.261555,,,,,,0
+7059,7059,NB Buffalo after Gomer,,36.012982,-115.261478,,,,,,0
+7063,7063,SB Durango after Blue Diamond,,36.018962,-115.279497,,,,,,0
+7064,7064,SB Durango after Richmar,,36.015185,-115.279832,,,,,,0
+7065,7065,SB Durango after Gomer,,36.011431,-115.280162,,,,,,0
+7066,7066,SB Durango before Mountains Edge,,36.007919,-115.280094,,,,,,0
+7067,7067,WB Mountains Edge after Durango,,36.005263,-115.280766,,,,,,0
+7068,7068,WB Mountains Edge after Riley,,36.005242,-115.284965,,,,,,0
+7069,7069,NB El Capitan after Mountains Edge,,36.005532,-115.288957,,,,,,0
+7070,7070,NB El Capitan after Le Baron,El Capitan & Gomer,36.009384,-115.288964,,,,,,0
+7071,7071,EB Gomer after El Capitan,,36.012066,-115.288456,,,,,,0
+7072,7072,NB Durango after Gomer,,36.012895,-115.279689,,,,,,0
+7073,7073,NB Durango after Richmar,,36.016071,-115.279451,,,,,,0
+7074,7074,NB Durango before Blue Diamond,,36.019664,-115.279079,,,,,,0
+7077,7077,SB Buffalo after Richmar,,36.015283,-115.261575,,,,,,0
+7078,7078,SB Buffalo after Gomer,,36.011651,-115.262096,,,,,,0
+7079,7079,SB Buffalo after Canyon Estates,,36.008116,-115.261766,,,,,,0
+7080,7080,SB Buffalo after Mountains Edge,,36.004682,-115.261982,,,,,,0
+7081,7081,EB Cactus after Buffalo,,35.998104,-115.26103,,,,,,0
+7082,7082,EB Cactus after Grandes Lagos,,35.998244,-115.256539,,,,,,0
+7083,7083,EB Cactus after Buffalo,,35.998332,-115.252436,,,,,,0
+7084,7084,EB Cactus after Hays Garden,,35.998418,-115.248538,,,,,,0
+7085,7085,EB Cactus after Rainbow,,35.998488,-115.242681,,,,,,0
+7086,7086,EB Cactus after Verona Wood,,35.998556,-115.235604,,,,,,0
+7087,7087,EB Cactus after El Camino,,35.998557,-115.229262,,,,,,0
+7088,7088,EB Cactus before Lindell,Cactus & Southern Highlands,35.998528,-115.21383,,,,,,0
+7089,7089,EB Cactus after Southern Highlands,,35.998515,-115.206715,,,,,,0
+7090,7090,EB Cactus after Jones,,35.998566,-115.225014,,,,,,0
+7091,7091,EB Cactus before Isola Bella,,35.99856,-115.203632,,,,,,0
+7092,7092,EB Cactus after Valley View,,35.998735,-115.188699,,,,,,0
+7093,7093,EB Cactus before Arville,Cactus & Isola Bella,35.998614,-115.199992,,,,,,0
+7094,7094,EB Cactus before Hinson,Cactus & Valley View,35.998685,-115.194672,,,,,,0
+7095,7095,SB Decatur after Badura,,36.062833,-115.207998,,,,,,0
+7096,7096,SB Decatur after Warm Springs,,36.056622,-115.208022,,,,,,0
+7097,7097,SB Decatur before Maulding,,36.052337,-115.208005,,,,,,0
+7098,7098,SB Decatur after Robindale,,36.049309,-115.207992,,,,,,0
+7099,7099,SB Decatur after Mesa Verde,,36.044907,-115.208027,,,,,,0
+7100,7100,EB Windmill after Decatur,,36.042371,-115.207186,,,,,,0
+7101,7101,SB Arville after Windmill,,36.04219,-115.199405,,,,,,0
+7102,7102,SB Arville before Camero,,36.037533,-115.199309,,,,,,0
+7103,7103,NB Decatur after Blue Diamond,,36.034235,-115.207653,,,,,,0
+7104,7104,NB Decatur after Shelbourne,,36.039615,-115.207673,,,,,,0
+7105,7105,NB Decatur after Windmill,,36.04292,-115.207666,,,,,,0
+7106,7106,NB Decatur after Lone Grove,,36.045982,-115.207648,,,,,,0
+7107,7107,NB Decatur after Warm Springs,,36.057502,-115.20765,,,,,,0
+7108,7108,NB Decatur before I-215,Decatur & I 215,36.063914,-115.207623,,,,,,0
+7109,7109,NB Tenaya after Sky Pointe,,36.265005,-115.251439,,,,,,0
+7110,7110,NB Tenaya before Tropical,,36.269498,-115.25146,,,,,,0
+7111,7111,EB Tropical after Centennial Center,,36.271883,-115.263862,,,,,,0
+7112,7112,SB Tenaya after Azure,,36.272963,-115.251704,,,,,,0
+7113,7113,SB Tenaya after Tropical,,36.269563,-115.251685,,,,,,0
+7114,7114,SB Tenaya before Sky Pointe,,36.26606,-115.25168,,,,,,0
+7115,7115,NB Grand Montecito after Ace,,36.294243,-115.284142,,,,,,0
+7116,7116,NB Oso Blanca before Farm,,36.297343,-115.289447,,,,,,0
+7117,7117,WB Farm after Oso Blanca,,36.299291,-115.289884,,,,,,0
+7118,7118,WB Farm after Tapestry Park,,36.299274,-115.294515,,,,,,0
+7119,7119,NB Fort Apache after Farm,,36.299832,-115.296701,,,,,,0
+7120,7120,NB Fort Apache after Gilcrease,,36.303365,-115.296672,,,,,,0
+7121,7121,WB Grand Teton after Fort Apache,,36.306668,-115.297211,,,,,,0
+7122,7122,WB Grand Teton after Tee Pee,,36.306792,-115.302778,,,,,,0
+7123,7123,NB Grand Canyon after Grand Teton,,36.307262,-115.305723,,,,,,0
+7124,7124,NB Grand Canyon after Eagle Canyon,Grand Canyon & Skye Canyon Park,36.310669,-115.305787,,,,,,0
+7125,7125,WB Skye Canyn Prk after Grand Canyn,Skye Canyon Park & Grand Canyon,36.314237,-115.306896,,,,,,0
+7126,7126,WB Skye Canyon Park after Skye Park,,36.314247,-115.311253,,,,,,0
+7127,7127,SB Skye Villag after Skye Canyn Prk,Skye Village & Skye Canyon Park,36.31351,-115.315098,,,,,,0
+7128,7128,SB Skye Village after Eagle Canyon,,36.309821,-115.315063,,,,,,0
+7129,7129,EB Grand Teton after Hualapai,,36.306616,-115.314106,,,,,,0
+7130,7130,EB Grand Teton before Grand Canyon,,36.306605,-115.309198,,,,,,0
+7131,7131,EB Grand Teton after Grand Canyon,,36.306495,-115.304646,,,,,,0
+7132,7132,EB Grand Teton after Tee Pee,,36.306472,-115.300086,,,,,,0
+7133,7133,SB Fort Apache after Gilcrease,,36.302478,-115.296973,,,,,,0
+7134,7134,EB Farm after Fort Apache,,36.299069,-115.296217,,,,,,0
+7135,7135,EB Farm before Oso Blanca,,36.299082,-115.292372,,,,,,0
+7136,7136,SB Oso Blanca after Farm,,36.297821,-115.289668,,,,,,0
+7137,7137,WB Deer Springs after Durango,,36.284665,-115.288651,,,,,,0
+7138,7138,WB Deer Springs before Campbell,,36.284642,-115.29281,,,,,,0
+7139,7139,WB Deer Springs after Fort Apache,,36.284679,-115.297802,,,,,,0
+7140,7140,WB Deer Springs after Tee Pee,,36.284699,-115.301921,,,,,,0
+7141,7141,WB Deer Springs before Grand Canyon,,36.284731,-115.305294,,,,,,0
+7142,7142,WB Deer Springs after Summer Sky,,36.284779,-115.310642,,,,,,0
+7143,7143,NB Hualapai after Deer Springs,,36.285803,-115.314734,,,,,,0
+7144,7144,NB Hualapai after Dorrell,,36.288825,-115.314746,,,,,,0
+7145,7145,NB Hualapai after Elkhorn,,36.29269,-115.314693,,,,,,0
+7146,7146,NB Hualapai after Severence,,36.296162,-115.314762,,,,,,0
+7147,7147,NB Hualapai after Farm,,36.300133,-115.314718,,,,,,0
+7148,7148,NB Hualapai after Gilcrease,,36.303514,-115.314777,,,,,,0
+7149,7149,SB Hualapai after Grand Teton,,36.306154,-115.315136,,,,,,0
+7150,7150,SB Hualapai before Farm,,36.302161,-115.315076,,,,,,0
+7151,7151,SB Hualapai after Farm,,36.298794,-115.31512,,,,,,0
+7152,7152,SB Hualapai before Elkhorn,,36.29506,-115.315055,,,,,,0
+7153,7153,SB Hualapai after Elkhorn,,36.291427,-115.315098,,,,,,0
+7154,7154,SB Hualapai after Dorrell,,36.287831,-115.315132,,,,,,0
+7155,7155,EB Deer Springs after Hualapai,,36.284594,-115.313791,,,,,,0
+7156,7156,EB Deer Springs after Grand Canyon,,36.284542,-115.305226,,,,,,0
+7157,7157,EB Deer Springs after Tee Pee,,36.2845,-115.300432,,,,,,0
+7158,7158,EB Deer Springs after Fort Apache,,36.28444,-115.295799,,,,,,0
+7159,7159,EB Deer Springs after Campbell,,36.284469,-115.291582,,,,,,0
+7160,7160,EB Cactus after Las Vegas,,35.99902,-115.17158,,,,,,0
+7161,7161,EB Cactus after Bermuda,,35.99917,-115.154414,,,,,,0
+7162,7162,EB Cactus after Aphrodite,,35.999091,-115.147043,,,,,,0
+7163,7163,EB Cactus after San Cristobal,,35.99902,-115.141981,,,,,,0
+7164,7164,EB Cactus after Maryland,,35.998927,-115.135153,,,,,,0
+7165,7165,EB Cactus before Tamarus,Cactus & Maryland,35.998935,-115.13291,,,,,,0
+7166,7166,SB Spencer after Cactus,,35.999668,-115.127123,,,,,,0
+7167,7167,WB Cactus after Spencer,,35.999929,-115.128049,,,,,,0
+7168,7168,WB Cactus after Tamarus,,35.999125,-115.132888,,,,,,0
+7169,7169,WB Cactus after Maryland,,35.999255,-115.137766,,,,,,0
+7170,7170,WB Cactus after Radcliff,,35.999326,-115.144438,,,,,,0
+7171,7171,WB Cactus before Amigo,,35.999358,-115.149558,,,,,,0
+7172,7172,WB Cactus before Bermuda,,35.999433,-115.153969,,,,,,0
+7173,7173,WB Cactus before Placid,,35.999488,-115.159054,,,,,,0
+7174,7174,WB Cactus before Haven,,35.999428,-115.167745,,,,,,0
+7175,7175,NB Carnegie after Cozy Hill,,36.012771,-115.0946,,,,,,0
+7176,7176,EB Horizon Ridge after Green Valley,,36.005647,-115.081937,,,,,,0
+7177,7177,EB Horizon Ridge after Carmel Vlly,Horizon Ridge & Carmel Valley,36.004673,-115.076396,,,,,,0
+7178,7178,EB Horizon Ridge before Roma Hills,,36.008319,-115.06612,,,,,,0
+7179,7179,EB Horizon Rdg after MacDonald Rnch,Horizon Ridge & MacDonald Ranch,36.011853,-115.061671,,,,,,0
+7180,7180,EB Horizon Ridge before Amador,,36.014176,-115.058699,,,,,,0
+7181,7181,EB Horizon Ridge after Amador,,36.016386,-115.055776,,,,,,0
+7182,7182,EB Horizon Ridg after Arroyo Grande,Horizon Ridge & Arroyo Grande,36.01973,-115.051488,,,,,,0
+7183,7183,EB Horizon Ridge before Stephanie,,36.021337,-115.04811,,,,,,0
+7184,7184,EB Horizon Ridge after Stephanie,,36.021742,-115.043635,,,,,,0
+7185,7185,EB Horizon Rdg after Viento Puntero,Horizon Ridge & Viento Puntero,36.021768,-115.038198,,,,,,0
+7186,7186,EB Horizon Rdg after Palmetto Pte,Horizon Ridge & Palmetto Pointe,36.021794,-115.033705,,,,,,0
+7187,7187,EB Horizon Ridge after Gibson,,36.021804,-115.028994,,,,,,0
+7188,7188,EB Horizon Ridge before Dunblane,,36.021903,-115.02411,,,,,,0
+7189,7189,EB Horizon Rdg before Clarissa Crst,Horizon Ridge & Clarissa Crest,36.022484,-115.019273,,,,,,0
+7190,7190,EB Horizon Ridg before Shaded Canyn,Horizon Ridge & Shaded Canyon,36.022958,-115.015355,,,,,,0
+7191,7191,EB Horizon Ridg after Shaded Canyon,Horizon Ridge & Shaded Canyon,36.024237,-115.010976,,,,,,0
+7192,7192,EB Horizon Ridge after Lemongold,,36.023945,-115.005494,,,,,,0
+7193,7193,EB Horizon Ridge before Nautical,,36.020401,-115.000652,,,,,,0
+7194,7194,EB Horizon Ridge after Rain Quail,,36.015657,-114.994981,,,,,,0
+7195,7195,EB Horizon Ridge before Horizon,,36.01221,-114.993092,,,,,,0
+7196,7196,SB College at Foothill High School,,36.003089,-114.963417,,,,,,0
+7197,7197,WB Horizon Ridge after Horizon,,36.011464,-114.992434,,,,,,0
+7198,7198,WB Horizon Ridge after Horizon,,36.014351,-114.993565,,,,,,0
+7199,7199,WB Horizon Ridge after Lemongold,Horizon Ridge & Iridescent,36.024493,-115.006204,,,,,,0
+7200,7200,WB Horizn Rdg befor Las Palmas Entr,Horizon Ridge & Las Palmas Entrada,36.024459,-115.011239,,,,,,0
+7201,7201,WB Horizon Ridge after Paseo Verde,,36.022954,-115.017412,,,,,,0
+7202,7202,WB Horizon Ridge before Dunblane,,36.022277,-115.023039,,,,,,0
+7203,7203,WB Horizon Ridge after Stephanie,,36.021717,-115.047857,,,,,,0
+7204,7204,WB Horizon Ridg after Arroyo Grande,Horizon Ridge & Arroyo Grande,36.018681,-115.053404,,,,,,0
+7205,7205,WB Horizon Ridge after Amador,,36.015821,-115.05706,,,,,,0
+7206,7206,WB Horizon Ridge after Valle Verde,,36.011334,-115.062854,,,,,,0
+7207,7207,WB Horizon Ridge before High Mesa,,36.007855,-115.067257,,,,,,0
+7208,7208,WB Horizon Ridge after Carmel Mesa,,36.005455,-115.071915,,,,,,0
+7209,7209,WB Horizon Ridge before Mtn Dell,Horizon Ridge & Mountain Dell,36.005149,-115.077353,,,,,,0
+7210,7210,NB Green Valley after Horizon Ridge,,36.006418,-115.083024,,,,,,0
+7211,7211,NB Green Valley after Alanhurst,,36.011398,-115.082959,,,,,,0
+7212,7212,NB Green Valley after Wingbrook,,36.014879,-115.082883,,,,,,0
+7213,7213,NB Green Valley before Paseo Verde,,36.018058,-115.082778,,,,,,0
+7214,7214,WB Paseo Verde after Green Valley,,36.020308,-115.084813,,,,,,0
+7215,7215,SB Carnegie after Paseo Verde,,36.017536,-115.091508,,,,,,0
+7216,7216,SB Carnegie after Cozy Hill,,36.012188,-115.095195,,,,,,0
+7217,7217,SB Carnegie after Skippers Cove,,36.0089,-115.095741,,,,,,0
+7218,7218,EB Skye Canyn Prk after Grand Canyn,Skye Canyon Park & Grand Canyon,36.313895,-115.305179,,,,,,0
+7219,7219,EB Charleston after Fremont,,36.158719,-115.118295,,,,,,0
+7220,7220,EB Charleston before Christy,,36.15924,-115.05401,,,,,,0
+7221,7221,WB Charleston after Colbath,,36.159387,-115.056477,,,,,,0
+7222,7222,EB Cactus after Dean Martin,,35.998897,-115.18298,,,,,,0
+7223,7223,EB Tropical after Revere,,36.269096,-115.152402,,,,,,0
+7224,7224,EB Tropical after Crestmont,,36.269011,-115.148169,,,,,,0
+7225,7225,EB Tropical after Commerce,,36.268876,-115.143207,,,,,,0
+7226,7226,EB Tropical after Goldfield,,36.268818,-115.138142,,,,,,0
+7227,7227,WB Charleston after 16th,,36.159001,-115.131626,,,,,,0
+7228,7228,WB Charleston before Town Center,,36.159147,-115.321712,,,,,,0
+7229,7229,WB Mel Torme after Spring Mountain,,36.126406,-115.175075,,,,,,0
+7230,7230,NB Sammy Davis Jr after Fash Shw Dr,Sammy Davis Jr & Fashion Show Drive,36.129909,-115.173964,,,,,,0
+7231,7231,SB Sammy Davis Jr before Desert Inn,,36.129996,-115.174294,,,,,,0
+7232,7232,EB Mel Torme after Sammy Davis Jr,,36.126248,-115.175752,,,,,,0
+7233,7233,NB Sammy Davis Jr after Goh Tong,,36.13486,-115.170718,,,,,,0
+7234,7234,NB Camino Eldorado after Red Hollow,,36.264994,-115.158258,,,,,,0
+7235,7235,EB Tropical after Camino Eldorado,,36.268656,-115.159926,,,,,,0
+7236,7236,NB Las Vegas after Fitzgerald,,36.241784,-115.051914,,,,,,0
+7237,7237,SB Las Vegas before Craig,,36.242084,-115.052034,,,,,,0
+7238,7238,NB Losee after Ann,,36.263883,-115.116842,,,,,,0
+7239,7239,NB Losee after Tropical,,36.266619,-115.116871,,,,,,0
+7240,7240,NB Losee after Tropical,,36.269616,-115.116796,,,,,,0
+7241,7241,NB Losee before Azure,,36.272433,-115.116826,,,,,,0
+7242,7242,EB Centennial after Losee,,36.276216,-115.116076,,,,,,0
+7243,7243,EB Centennial after McCarran,,36.276291,-115.111628,,,,,,0
+7244,7244,EB Centennial after Statz,,36.276304,-115.106974,,,,,,0
+7245,7245,EB Centennial before Palmer,,36.276368,-115.103494,,,,,,0
+7246,7246,NB Bermuda after St Rose,,35.979471,-115.155012,,,,,,0
+7247,7247,EB Starr before St Rose,,35.983583,-115.150789,,,,,,0
+7248,7248,WB Richmar after Buffalo,,36.01591,-115.261999,,,,,,0
+7249,7249,NB Cimarron before Blue Diamond,,36.019088,-115.270179,,,,,,0
+7250,7250,SB Cimarron after Blue Diamond,,36.019831,-115.270335,,,,,,0
+7251,7251,EB Meranto after Fort Apache,,36.017478,-115.297512,,,,,,0
+7252,7252,NB El Capitan before Blue Diamond,,36.019729,-115.288474,,,,,,0
+7253,7253,SB El Capitan after Blue Diamond,,36.019763,-115.288706,,,,,,0
+7254,7254,NB Fort Apache before Serene,,36.01916,-115.297775,,,,,,0
+7255,7255,Boulder City @ Juniper (E),,35.972163,-114.849002,,,,,,0
+7256,7256,Boulder City @ Juniper (W),,35.972339,-114.849112,,,,,,0
+7257,7257,El Campo Grande @ Nicco (E),,36.26589,-115.047453,,,,,,0
+7258,7258,Horizon Ridge @ Rich Perez Jr (W),,35.998946,-115.114439,,,,,,0
+7260,7260,Camino Al Norte @ Craig Ranch (N),,36.243158,-115.159855,,,,,,0
+7261,7261,Camino Al Norte @ Craig Ranch (S),,36.243066,-115.160453,,,,,,0
+7262,7262,Water @ Army (N),,36.032674,-114.982868,,,,,,0
+20015,20015,BTC Stop 1,E BONNEVILLE AVE,36.164459,-115.148675,,,,,,0
+20016,20016,BTC Stop 2,TRANSIT STATION ST & E BONNEVILLE AVE,36.164459,-115.148675,,,,,,0
